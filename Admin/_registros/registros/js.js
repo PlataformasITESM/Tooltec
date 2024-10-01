@@ -1,0 +1,7 @@
+ 
+$(function() {
+	$('#tablesorter').DataTable();
+ 
+guardado();
+
+});

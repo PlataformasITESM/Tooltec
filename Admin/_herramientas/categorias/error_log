@@ -1,0 +1,63 @@
+[07-Sep-2023 10:04:34 America/Mexico_City] PHP Warning:  Undefined variable $debug in /home/tooltec/public_html/Admin/sesion/arriba.php on line 50
+[07-Sep-2023 10:04:34 America/Mexico_City] PHP Warning:  Undefined array key "debug" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 51
+[07-Sep-2023 10:04:34 America/Mexico_City] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/tooltec/public_html/Admin/control/funciones.php on line 973
+[07-Sep-2023 10:04:34 America/Mexico_City] PHP Warning:  Undefined array key "HTTP_CLIENT_IP" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 64
+[07-Sep-2023 10:04:34 America/Mexico_City] PHP Warning:  Undefined array key "HTTP_X_FORWARDE‌​D_FOR" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 64
+[07-Sep-2023 10:04:34 America/Mexico_City] PHP Warning:  Undefined variable $seccionComun in /home/tooltec/public_html/Admin/sesion/mata.php on line 133
+[07-Sep-2023 10:04:34 America/Mexico_City] PHP Warning:  Undefined variable $tituloURL in /home/tooltec/public_html/Admin/_herramientas/categorias/index.php on line 18
+[07-Sep-2023 10:04:34 America/Mexico_City] PHP Warning:  Undefined array key "linea" in /home/tooltec/public_html/Admin/_herramientas/categorias/categoriasTodos.php on line 22
+[07-Sep-2023 10:04:34 America/Mexico_City] PHP Warning:  Undefined variable $debug in /home/tooltec/public_html/Admin/sesion/arriba.php on line 50
+[07-Sep-2023 10:04:34 America/Mexico_City] PHP Warning:  Undefined array key "debug" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 51
+[07-Sep-2023 10:04:34 America/Mexico_City] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/tooltec/public_html/Admin/control/funciones.php on line 973
+[07-Sep-2023 10:04:34 America/Mexico_City] PHP Warning:  Undefined array key "HTTP_CLIENT_IP" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 64
+[07-Sep-2023 10:04:34 America/Mexico_City] PHP Warning:  Undefined array key "HTTP_X_FORWARDE‌​D_FOR" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 64
+[07-Sep-2023 10:04:34 America/Mexico_City] PHP Warning:  Undefined variable $seccionComun in /home/tooltec/public_html/Admin/sesion/mata.php on line 133
+[07-Sep-2023 10:04:34 America/Mexico_City] PHP Warning:  Undefined variable $tituloURL in /home/tooltec/public_html/Admin/_herramientas/categorias/index.php on line 18
+[07-Sep-2023 10:04:34 America/Mexico_City] PHP Warning:  Undefined array key "linea" in /home/tooltec/public_html/Admin/_herramientas/categorias/categoriasTodos.php on line 22
+[07-Sep-2023 10:04:34 America/Mexico_City] PHP Warning:  Undefined array key "info" in /home/tooltec/public_html/Admin/_herramientas/categorias/categoriasTodos.php on line 23
+[07-Sep-2023 10:04:34 America/Mexico_City] PHP Deprecated:  unserialize(): Passing null to parameter #1 ($data) of type string is deprecated in /home/tooltec/public_html/Admin/_herramientas/categorias/categoriasTodos.php on line 23
+[07-Sep-2023 10:04:34 America/Mexico_City] PHP Warning:  Undefined array key "etiquetas" in /home/tooltec/public_html/Admin/_herramientas/categorias/categoriasTodos.php on line 24
+[07-Sep-2023 10:04:34 America/Mexico_City] PHP Deprecated:  unserialize(): Passing null to parameter #1 ($data) of type string is deprecated in /home/tooltec/public_html/Admin/_herramientas/categorias/categoriasTodos.php on line 24
+[07-Sep-2023 10:04:34 America/Mexico_City] PHP Warning:  Undefined variable $arregloArchivos in /home/tooltec/public_html/Admin/_herramientas/categorias/categoriasTodos.php on line 27
+[07-Sep-2023 10:04:34 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home/tooltec/public_html/Admin/_herramientas/categorias/categoriasTodos.php on line 27
+[07-Sep-2023 10:04:34 America/Mexico_City] PHP Warning:  Undefined array key "info" in /home/tooltec/public_html/Admin/_herramientas/categorias/categoriasTodos.php on line 29
+[07-Sep-2023 10:04:34 America/Mexico_City] PHP Deprecated:  unserialize(): Passing null to parameter #1 ($data) of type string is deprecated in /home/tooltec/public_html/Admin/_herramientas/categorias/categoriasTodos.php on line 29
+[07-Sep-2023 10:04:34 America/Mexico_City] PHP Warning:  Undefined array key "tipo" in /home/tooltec/public_html/Admin/_herramientas/categorias/categoriasTodos.php on line 30
+[07-Sep-2023 10:04:34 America/Mexico_City] PHP Warning:  Undefined array key "fechaI" in /home/tooltec/public_html/Admin/_herramientas/categorias/categoriasTodos.php on line 31
+[07-Sep-2023 10:04:34 America/Mexico_City] PHP Warning:  Undefined array key "fechaF" in /home/tooltec/public_html/Admin/_herramientas/categorias/categoriasTodos.php on line 32
+[07-Sep-2023 10:04:34 America/Mexico_City] PHP Warning:  Undefined array key "linea" in /home/tooltec/public_html/Admin/_herramientas/categorias/categoriasTodos.php on line 22
+[07-Sep-2023 10:04:34 America/Mexico_City] PHP Warning:  Undefined array key "info" in /home/tooltec/public_html/Admin/_herramientas/categorias/categoriasTodos.php on line 23
+[07-Sep-2023 10:04:34 America/Mexico_City] PHP Deprecated:  unserialize(): Passing null to parameter #1 ($data) of type string is deprecated in /home/tooltec/public_html/Admin/_herramientas/categorias/categoriasTodos.php on line 23
+[07-Sep-2023 10:04:34 America/Mexico_City] PHP Warning:  Undefined array key "etiquetas" in /home/tooltec/public_html/Admin/_herramientas/categorias/categoriasTodos.php on line 24
+[07-Sep-2023 10:04:34 America/Mexico_City] PHP Deprecated:  unserialize(): Passing null to parameter #1 ($data) of type string is deprecated in /home/tooltec/public_html/Admin/_herramientas/categorias/categoriasTodos.php on line 24
+[07-Sep-2023 10:04:34 America/Mexico_City] PHP Warning:  Undefined variable $arregloArchivos in /home/tooltec/public_html/Admin/_herramientas/categorias/categoriasTodos.php on line 27
+[07-Sep-2023 10:04:34 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home/tooltec/public_html/Admin/_herramientas/categorias/categoriasTodos.php on line 27
+[07-Sep-2023 10:04:34 America/Mexico_City] PHP Warning:  Undefined array key "info" in /home/tooltec/public_html/Admin/_herramientas/categorias/categoriasTodos.php on line 29
+[07-Sep-2023 10:04:34 America/Mexico_City] PHP Deprecated:  unserialize(): Passing null to parameter #1 ($data) of type string is deprecated in /home/tooltec/public_html/Admin/_herramientas/categorias/categoriasTodos.php on line 29
+[07-Sep-2023 10:04:34 America/Mexico_City] PHP Warning:  Undefined array key "tipo" in /home/tooltec/public_html/Admin/_herramientas/categorias/categoriasTodos.php on line 30
+[07-Sep-2023 10:04:34 America/Mexico_City] PHP Warning:  Undefined array key "fechaI" in /home/tooltec/public_html/Admin/_herramientas/categorias/categoriasTodos.php on line 31
+[07-Sep-2023 10:04:34 America/Mexico_City] PHP Warning:  Undefined array key "fechaF" in /home/tooltec/public_html/Admin/_herramientas/categorias/categoriasTodos.php on line 32
+[07-Sep-2023 10:04:34 America/Mexico_City] PHP Warning:  Undefined array key "linea" in /home/tooltec/public_html/Admin/_herramientas/categorias/categoriasTodos.php on line 22
+[07-Sep-2023 10:04:34 America/Mexico_City] PHP Warning:  Undefined array key "info" in /home/tooltec/public_html/Admin/_herramientas/categorias/categoriasTodos.php on line 23
+[07-Sep-2023 10:04:34 America/Mexico_City] PHP Deprecated:  unserialize(): Passing null to parameter #1 ($data) of type string is deprecated in /home/tooltec/public_html/Admin/_herramientas/categorias/categoriasTodos.php on line 23
+[07-Sep-2023 10:04:34 America/Mexico_City] PHP Warning:  Undefined array key "etiquetas" in /home/tooltec/public_html/Admin/_herramientas/categorias/categoriasTodos.php on line 24
+[07-Sep-2023 10:04:34 America/Mexico_City] PHP Deprecated:  unserialize(): Passing null to parameter #1 ($data) of type string is deprecated in /home/tooltec/public_html/Admin/_herramientas/categorias/categoriasTodos.php on line 24
+[07-Sep-2023 10:04:34 America/Mexico_City] PHP Warning:  Undefined variable $arregloArchivos in /home/tooltec/public_html/Admin/_herramientas/categorias/categoriasTodos.php on line 27
+[07-Sep-2023 10:04:34 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home/tooltec/public_html/Admin/_herramientas/categorias/categoriasTodos.php on line 27
+[07-Sep-2023 10:04:34 America/Mexico_City] PHP Warning:  Undefined array key "info" in /home/tooltec/public_html/Admin/_herramientas/categorias/categoriasTodos.php on line 29
+[07-Sep-2023 10:04:34 America/Mexico_City] PHP Deprecated:  unserialize(): Passing null to parameter #1 ($data) of type string is deprecated in /home/tooltec/public_html/Admin/_herramientas/categorias/categoriasTodos.php on line 29
+[07-Sep-2023 10:04:34 America/Mexico_City] PHP Warning:  Undefined array key "tipo" in /home/tooltec/public_html/Admin/_herramientas/categorias/categoriasTodos.php on line 30
+[07-Sep-2023 10:04:34 America/Mexico_City] PHP Warning:  Undefined array key "fechaI" in /home/tooltec/public_html/Admin/_herramientas/categorias/categoriasTodos.php on line 31
+[07-Sep-2023 10:04:34 America/Mexico_City] PHP Warning:  Undefined array key "fechaF" in /home/tooltec/public_html/Admin/_herramientas/categorias/categoriasTodos.php on line 32
+[07-Sep-2023 10:04:34 America/Mexico_City] PHP Warning:  Undefined array key "linea" in /home/tooltec/public_html/Admin/_herramientas/categorias/categoriasTodos.php on line 22
+[07-Sep-2023 10:04:34 America/Mexico_City] PHP Warning:  Undefined array key "info" in /home/tooltec/public_html/Admin/_herramientas/categorias/categoriasTodos.php on line 23
+[07-Sep-2023 10:04:34 America/Mexico_City] PHP Deprecated:  unserialize(): Passing null to parameter #1 ($data) of type string is deprecated in /home/tooltec/public_html/Admin/_herramientas/categorias/categoriasTodos.php on line 23
+[07-Sep-2023 10:04:34 America/Mexico_City] PHP Warning:  Undefined array key "etiquetas" in /home/tooltec/public_html/Admin/_herramientas/categorias/categoriasTodos.php on line 24
+[07-Sep-2023 10:04:34 America/Mexico_City] PHP Deprecated:  unserialize(): Passing null to parameter #1 ($data) of type string is deprecated in /home/tooltec/public_html/Admin/_herramientas/categorias/categoriasTodos.php on line 24
+[07-Sep-2023 10:04:34 America/Mexico_City] PHP Warning:  Undefined variable $arregloArchivos in /home/tooltec/public_html/Admin/_herramientas/categorias/categoriasTodos.php on line 27
+[07-Sep-2023 10:04:34 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home/tooltec/public_html/Admin/_herramientas/categorias/categoriasTodos.php on line 27
+[07-Sep-2023 10:04:34 America/Mexico_City] PHP Warning:  Undefined array key "info" in /home/tooltec/public_html/Admin/_herramientas/categorias/categoriasTodos.php on line 29
+[07-Sep-2023 10:04:34 America/Mexico_City] PHP Deprecated:  unserialize(): Passing null to parameter #1 ($data) of type string is deprecated in /home/tooltec/public_html/Admin/_herramientas/categorias/categoriasTodos.php on line 29
+[07-Sep-2023 10:04:34 America/Mexico_City] PHP Warning:  Undefined array key "tipo" in /home/tooltec/public_html/Admin/_herramientas/categorias/categoriasTodos.php on line 30
+[07-Sep-2023 10:04:34 America/Mexico_City] PHP Warning:  Undefined array key "fechaI" in /home/tooltec/public_html/Admin/_herramientas/categorias/categoriasTodos.php on line 31
+[07-Sep-2023 10:04:34 America/Mexico_City] PHP Warning:  Undefined array key "fechaF" in /home/tooltec/public_html/Admin/_herramientas/categorias/categoriasTodos.php on line 32

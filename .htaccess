@@ -1,0 +1,183 @@
+## EXPIRES CACHING ##
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
+RewriteRule ^(.*)$ http://%1%{REQUEST_URI} [R=301,QSA,NC,L]
+
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+<IfModule mod_expires.c>
+
+ExpiresActive On
+ExpiresByType image/jpg "access 1 year"
+ExpiresByType image/jpg "access 1 year"
+ExpiresByType image/jpeg "access 1 year"
+ExpiresByType image/gif "access 1 year"
+ExpiresByType image/png "access 1 year"
+ExpiresByType text/css "access 1 year"
+ExpiresByType text/html "access 1 year"
+ExpiresByType application/pdf "access 1 year"
+ExpiresByType text/x-javascript "access 1 year"
+ExpiresByType application/x-shockwave-flash "access 1 year"
+ExpiresByType image/x-icon "access 1 year"
+ExpiresDefault "access 1 year"
+
+</IfModule>
+
+
+<filesMatch "\\.(html|htm|php)$">
+Header set Cache-Control "max-age=6000000, public"
+</filesMatch>
+
+
+
+<filesMatch "\\.(html|htm|php)$">
+Header set Cache-Control "max-age=6000000, public"
+</filesMatch>
+ 
+ # disable directory browsing
+Options All -Indexes
+ 
+
+#home
+RewriteRule ^Admin$  Admin/index.php [NC,L]
+RewriteRule ^Admin/$  Admin/index.php [NC,L]
+RewriteRule ^Admin/_admin$  Admin/_admin/index.php [NC,L]
+RewriteRule ^Admin/_admin/$  Admin/_admin/index.php [NC,L]
+
+
+#usuarios
+RewriteRule ^loginUsuario$  _sitio/login/login.php [NC,L]
+RewriteRule ^loginUsuario/$  _sitio/login/login.php [NC,L]
+
+RewriteRule ^creaUsuario$  _sitio/login/crearCuenta.php [NC,L]
+RewriteRule ^creaUsuario/$  _sitio/login/crearCuenta.php [NC,L]
+
+RewriteRule ^loginEmail$  _sitio/login/email.php [NC,L]
+RewriteRule ^loginEmail/$  _sitio/login/email.php [NC,L]
+
+RewriteRule ^addUser$  _sitio/login/add.php [NC,L]
+RewriteRule ^addUser/$  _sitio/login/add.php [NC,L]
+
+RewriteRule ^olvide$  _sitio/login/olvideMi.php [NC,L]
+RewriteRule ^olvide/$  _sitio/login/olvideMi.php [NC,L]
+
+RewriteRule ^forgot$  _sitio/login/forgotP.php [NC,L]
+RewriteRule ^forgot/$  _sitio/login/forgotP.php [NC,L]
+
+RewriteRule ^recuperar$  _sitio/login/recuperarC.php [NC,L]
+RewriteRule ^recuperar/$  _sitio/login/recuperarC.php [NC,L]
+
+RewriteRule ^cambiaC$  _sitio/login/cambiaC.php [NC,L]
+RewriteRule ^cambiaC/$  _sitio/login/cambiaC.php [NC,L]
+
+RewriteRule ^loginP$  _sitio/login/loginP.php [NC,L]
+RewriteRule ^loginP/$  _sitio/login/loginP.php [NC,L]
+
+
+RewriteRule ^valida/([a-zA-Z0-9_-]+)/([a-zA-Z0-9_-]+)$ _sitio/login/valida.php?u=$1&clave=$2 [NC,L]
+RewriteRule ^valida/([a-zA-Z0-9_-]+)/([a-zA-Z0-9_-]+)/$ _sitio/login/valida.php?u=$1&clave=$2 [NC,L]
+
+RewriteRule ^forgot/([a-zA-Z0-9_-]+)/([a-zA-Z0-9_-]+)$ _sitio/_secciones/index.php?accion=recupera&u=$1&clave=$2 [NC,L]
+RewriteRule ^forgot/([a-zA-Z0-9_-]+)/([a-zA-Z0-9_-]+)/$ _sitio/_secciones/index.php??accion=recupera&u=$1&clave=$2 [NC,L]
+
+
+RewriteRule ^loginAccesa$   _sitio/_secciones/index.php?accion=logins [NC,L]
+RewriteRule ^loginAccesa/$   _sitio/_secciones/index.php?accion=logins [NC,L]
+
+
+#herramientas
+
+RewriteRule ^herramientas$  _sitio/_secciones/herramientas.php [NC,L]
+RewriteRule ^herramientas/$  _sitio/_secciones/herramientas.php [NC,L]
+
+RewriteRule ^herramientaLike$  _sitio/procesos/like.php [NC,L]
+RewriteRule ^herramientaLike/$  _sitio/procesos/like.php [NC,L]
+
+RewriteRule ^herramientaComentario$  _sitio/procesos/comentar.php [NC,L]
+RewriteRule ^herramientaComentario/$  _sitio/procesos/comentar.php [NC,L]
+
+RewriteRule ^herramientas/([a-zA-Z0-9_-]+)$  _sitio/_secciones/herramientasHerramienta.php?s=$1 [NC,L]
+RewriteRule ^herramientas/([a-zA-Z0-9_-]+)/$  _sitio/_secciones/herramientasHerramienta.php?s=$1 [NC,L]
+
+
+#expertos
+
+RewriteRule ^expertos$  _sitio/_secciones/expertos.php [NC,L]
+RewriteRule ^expertos/$  _sitio/_secciones/expertos.php [NC,L]
+
+RewriteRule ^expertos/([a-zA-Z0-9_-]+)$  _sitio/_secciones/expertosExperto.php?s=$1 [NC,L]
+RewriteRule ^expertos/([a-zA-Z0-9_-]+)/$  _sitio/_secciones/expertosExperto.php?s=$1 [NC,L]
+
+#expertos con refere
+
+RewriteRule ^expertos/([a-zA-Z0-9_-]+)/([a-zA-Z0-9_-]+)$  _sitio/_secciones/expertosExperto.php?s=$1&h=$2 [NC,L]
+RewriteRule ^expertos/([a-zA-Z0-9_-]+)/([a-zA-Z0-9_-]+)/$  _sitio/_secciones/expertosExperto.php?s=$1$h=$2 [NC,L]
+
+
+#herramientas
+
+RewriteRule ^blog$  _sitio/_secciones/blog.php [NC,L]
+RewriteRule ^blog/$  _sitio/_secciones/blog.php [NC,L]
+
+RewriteRule ^blog/([a-zA-Z0-9_-]+)$  _sitio/_secciones/blogPost.php?s=$1 [NC,L]
+RewriteRule ^blog/([a-zA-Z0-9_-]+)/$  _sitio/_secciones/blogPost.php?s=$1 [NC,L]
+
+RewriteRule ^blogLike$  _sitio/procesos/likeBlog.php [NC,L]
+RewriteRule ^blogLike/$  _sitio/procesos/likeBlog.php [NC,L]
+
+RewriteRule ^blogComentario$  _sitio/procesos/comentarBlog.php [NC,L]
+RewriteRule ^blogComentario/$  _sitio/procesos/comentarBlog.php [NC,L]
+
+
+#secciones
+RewriteRule ^([a-zA-Z0-9_-]+)$  _sitio/_secciones/seccion.php?s=$1 [NC,L]
+RewriteRule ^([a-zA-Z0-9_-]+)/$  _sitio/_secciones/seccion.php?s=$1 [NC,L]
+
+
+#secciones
+RewriteRule ^index.php$  _sitio/_secciones/index.php?s=$1 [NC,L]
+RewriteRule ^index.php/$  _sitio/_secciones/index.php?s=$1 [NC,L]
+
+
+
+RewriteCond %{REQUEST_FILENAME} !-d 
+RewriteCond %{REQUEST_FILENAME}\.php -f 
+RewriteRule ^(.*)$ $1.php
+
+# BEGIN cPanel-generated php ini directives, do not edit
+# Manual editing of this file may result in unexpected behavior.
+# To make changes to this file, use the cPanel MultiPHP INI Editor (Home >> Software >> MultiPHP INI Editor)
+# For more information, read our documentation (https://go.cpanel.net/EA4ModifyINI)
+<IfModule php8_module>
+   php_flag display_errors Off
+   php_value max_execution_time 7200
+   php_value max_input_time 1800
+   php_value max_input_vars 1000
+   php_value memory_limit 128M
+   php_value post_max_size 128M
+   php_value session.gc_maxlifetime 1440
+   php_value session.save_path "/var/cpanel/php/sessions/ea-php81"
+   php_value upload_max_filesize 100M
+   php_flag zlib.output_compression Off
+</IfModule>
+<IfModule lsapi_module>
+   php_flag display_errors Off
+   php_value max_execution_time 7200
+   php_value max_input_time 1800
+   php_value max_input_vars 1000
+   php_value memory_limit 128M
+   php_value post_max_size 128M
+   php_value session.gc_maxlifetime 1440
+   php_value session.save_path "/var/cpanel/php/sessions/ea-php81"
+   php_value upload_max_filesize 100M
+   php_flag zlib.output_compression Off
+</IfModule>
+# END cPanel-generated php ini directives, do not edit
+
+# php -- BEGIN cPanel-generated handler, do not edit
+# Set the “ea-php81” package as the default “PHP” programming language.
+<IfModule mime_module>
+  AddHandler application/x-httpd-ea-php81 .php .php8 .phtml
+</IfModule>
+# php -- END cPanel-generated handler, do not edit

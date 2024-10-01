@@ -1,0 +1,282 @@
+[18-Nov-2021 02:34:13 UTC] PHP Warning:  Undefined variable $debug in /home/mabodvs/public_html/sesion/arriba.php on line 38
+[18-Nov-2021 02:34:13 UTC] PHP Warning:  Undefined array key "debug" in /home/mabodvs/public_html/sesion/arriba.php on line 39
+[17-Nov-2021 20:34:13 America/Mexico_City] PHP Warning:  Undefined variable $estoyAfuera in /home/mabodvs/public_html/control/magia.php on line 3
+[17-Nov-2021 20:34:13 America/Mexico_City] PHP Warning:  Undefined variable $menuPuesto in /home/mabodvs/public_html/interfase/menu.php on line 36
+[17-Nov-2021 20:34:13 America/Mexico_City] PHP Warning:  Undefined variable $granDescartar in /home/mabodvs/public_html/interfase/header.php on line 40
+[17-Nov-2021 20:34:13 America/Mexico_City] PHP Warning:  include(tabsD.php): Failed to open stream: No such file or directory in /home/mabodvs/public_html/_drivers/portrait/index.php on line 37
+[17-Nov-2021 20:34:13 America/Mexico_City] PHP Warning:  include(): Failed opening 'tabsD.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/mabodvs/public_html/_drivers/portrait/index.php on line 37
+[17-Nov-2021 20:34:13 America/Mexico_City] PHP Warning:  include(driversAddForma.php): Failed to open stream: No such file or directory in /home/mabodvs/public_html/_drivers/portrait/index.php on line 41
+[17-Nov-2021 20:34:13 America/Mexico_City] PHP Warning:  include(): Failed opening 'driversAddForma.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/mabodvs/public_html/_drivers/portrait/index.php on line 41
+[18-Nov-2021 02:34:14 UTC] PHP Warning:  Undefined variable $debug in /home/mabodvs/public_html/sesion/arriba.php on line 38
+[18-Nov-2021 02:34:14 UTC] PHP Warning:  Undefined array key "debug" in /home/mabodvs/public_html/sesion/arriba.php on line 39
+[17-Nov-2021 20:34:14 America/Mexico_City] PHP Warning:  Undefined variable $estoyAfuera in /home/mabodvs/public_html/control/magia.php on line 3
+[17-Nov-2021 20:34:14 America/Mexico_City] PHP Warning:  Undefined variable $menuPuesto in /home/mabodvs/public_html/interfase/menu.php on line 36
+[17-Nov-2021 20:34:14 America/Mexico_City] PHP Warning:  Undefined variable $granDescartar in /home/mabodvs/public_html/interfase/header.php on line 40
+[17-Nov-2021 20:34:14 America/Mexico_City] PHP Warning:  include(tabsD.php): Failed to open stream: No such file or directory in /home/mabodvs/public_html/_drivers/portrait/index.php on line 37
+[17-Nov-2021 20:34:14 America/Mexico_City] PHP Warning:  include(): Failed opening 'tabsD.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/mabodvs/public_html/_drivers/portrait/index.php on line 37
+[17-Nov-2021 20:34:14 America/Mexico_City] PHP Warning:  include(driversAddForma.php): Failed to open stream: No such file or directory in /home/mabodvs/public_html/_drivers/portrait/index.php on line 41
+[17-Nov-2021 20:34:14 America/Mexico_City] PHP Warning:  include(): Failed opening 'driversAddForma.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/mabodvs/public_html/_drivers/portrait/index.php on line 41
+[18-Nov-2021 02:34:21 UTC] PHP Warning:  Undefined variable $debug in /home/mabodvs/public_html/sesion/arriba.php on line 38
+[18-Nov-2021 02:34:21 UTC] PHP Warning:  Undefined array key "debug" in /home/mabodvs/public_html/sesion/arriba.php on line 39
+[17-Nov-2021 20:34:21 America/Mexico_City] PHP Warning:  Undefined variable $estoyAfuera in /home/mabodvs/public_html/control/magia.php on line 3
+[17-Nov-2021 20:34:21 America/Mexico_City] PHP Warning:  Undefined variable $menuPuesto in /home/mabodvs/public_html/interfase/menu.php on line 36
+[17-Nov-2021 20:34:21 America/Mexico_City] PHP Warning:  Undefined variable $granDescartar in /home/mabodvs/public_html/interfase/header.php on line 40
+[17-Nov-2021 20:34:21 America/Mexico_City] PHP Warning:  include(tabsD.php): Failed to open stream: No such file or directory in /home/mabodvs/public_html/_drivers/portrait/index.php on line 37
+[17-Nov-2021 20:34:21 America/Mexico_City] PHP Warning:  include(): Failed opening 'tabsD.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/mabodvs/public_html/_drivers/portrait/index.php on line 37
+[17-Nov-2021 20:34:21 America/Mexico_City] PHP Warning:  include(driversAddForma.php): Failed to open stream: No such file or directory in /home/mabodvs/public_html/_drivers/portrait/index.php on line 41
+[17-Nov-2021 20:34:21 America/Mexico_City] PHP Warning:  include(): Failed opening 'driversAddForma.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/mabodvs/public_html/_drivers/portrait/index.php on line 41
+[18-Nov-2021 02:34:32 UTC] PHP Warning:  Undefined variable $debug in /home/mabodvs/public_html/sesion/arriba.php on line 38
+[18-Nov-2021 02:34:32 UTC] PHP Warning:  Undefined array key "debug" in /home/mabodvs/public_html/sesion/arriba.php on line 39
+[17-Nov-2021 20:34:32 America/Mexico_City] PHP Warning:  Undefined variable $estoyAfuera in /home/mabodvs/public_html/control/magia.php on line 3
+[17-Nov-2021 20:34:32 America/Mexico_City] PHP Warning:  Undefined variable $menuPuesto in /home/mabodvs/public_html/interfase/menu.php on line 36
+[17-Nov-2021 20:34:32 America/Mexico_City] PHP Warning:  Undefined variable $granDescartar in /home/mabodvs/public_html/interfase/header.php on line 40
+[17-Nov-2021 20:34:32 America/Mexico_City] PHP Warning:  Undefined variable $seccionSub in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 25
+[17-Nov-2021 20:34:32 America/Mexico_City] PHP Warning:  Undefined variable $l in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 44
+[17-Nov-2021 20:34:32 America/Mexico_City] PHP Warning:  Undefined variable $l in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 76
+[17-Nov-2021 20:34:32 America/Mexico_City] PHP Warning:  Undefined variable $l in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 83
+[17-Nov-2021 20:34:32 America/Mexico_City] PHP Warning:  include(driversAddForma.php): Failed to open stream: No such file or directory in /home/mabodvs/public_html/_drivers/portrait/index.php on line 41
+[17-Nov-2021 20:34:32 America/Mexico_City] PHP Warning:  include(): Failed opening 'driversAddForma.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/mabodvs/public_html/_drivers/portrait/index.php on line 41
+[18-Nov-2021 02:35:00 UTC] PHP Warning:  Undefined variable $debug in /home/mabodvs/public_html/sesion/arriba.php on line 38
+[18-Nov-2021 02:35:00 UTC] PHP Warning:  Undefined array key "debug" in /home/mabodvs/public_html/sesion/arriba.php on line 39
+[17-Nov-2021 20:35:00 America/Mexico_City] PHP Warning:  Undefined variable $estoyAfuera in /home/mabodvs/public_html/control/magia.php on line 3
+[17-Nov-2021 20:35:00 America/Mexico_City] PHP Warning:  Undefined variable $menuPuesto in /home/mabodvs/public_html/interfase/menu.php on line 36
+[17-Nov-2021 20:35:00 America/Mexico_City] PHP Warning:  Undefined variable $granDescartar in /home/mabodvs/public_html/interfase/header.php on line 40
+[17-Nov-2021 20:35:00 America/Mexico_City] PHP Warning:  Undefined variable $seccionSub in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 25
+[17-Nov-2021 20:35:00 America/Mexico_City] PHP Warning:  Undefined variable $l in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 44
+[17-Nov-2021 20:35:00 America/Mexico_City] PHP Warning:  Undefined variable $l in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 76
+[17-Nov-2021 20:35:00 America/Mexico_City] PHP Warning:  Undefined variable $l in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 83
+[17-Nov-2021 20:35:00 America/Mexico_City] PHP Warning:  Undefined variable $avatarU in /home/mabodvs/public_html/_drivers/portrait/avatarForma.php on line 5
+[18-Nov-2021 02:35:15 UTC] PHP Warning:  Undefined variable $debug in /home/mabodvs/public_html/sesion/arriba.php on line 38
+[18-Nov-2021 02:35:15 UTC] PHP Warning:  Undefined array key "debug" in /home/mabodvs/public_html/sesion/arriba.php on line 39
+[17-Nov-2021 20:35:15 America/Mexico_City] PHP Warning:  Undefined variable $estoyAfuera in /home/mabodvs/public_html/control/magia.php on line 3
+[17-Nov-2021 20:35:15 America/Mexico_City] PHP Warning:  Undefined variable $menuPuesto in /home/mabodvs/public_html/interfase/menu.php on line 36
+[17-Nov-2021 20:35:15 America/Mexico_City] PHP Warning:  Undefined variable $granDescartar in /home/mabodvs/public_html/interfase/header.php on line 40
+[17-Nov-2021 20:35:15 America/Mexico_City] PHP Warning:  Undefined variable $seccionSub in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 25
+[17-Nov-2021 20:35:15 America/Mexico_City] PHP Warning:  Undefined variable $l in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 44
+[17-Nov-2021 20:35:15 America/Mexico_City] PHP Warning:  Undefined variable $l in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 76
+[17-Nov-2021 20:35:15 America/Mexico_City] PHP Warning:  Undefined variable $l in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 83
+[17-Nov-2021 20:35:15 America/Mexico_City] PHP Warning:  Undefined variable $avatarU in /home/mabodvs/public_html/_drivers/portrait/avatarForma.php on line 5
+[18-Nov-2021 02:35:21 UTC] PHP Warning:  Undefined variable $debug in /home/mabodvs/public_html/sesion/arriba.php on line 38
+[18-Nov-2021 02:35:21 UTC] PHP Warning:  Undefined array key "debug" in /home/mabodvs/public_html/sesion/arriba.php on line 39
+[17-Nov-2021 20:35:21 America/Mexico_City] PHP Warning:  Undefined variable $estoyAfuera in /home/mabodvs/public_html/control/magia.php on line 3
+[17-Nov-2021 20:35:21 America/Mexico_City] PHP Warning:  Undefined variable $menuPuesto in /home/mabodvs/public_html/interfase/menu.php on line 36
+[17-Nov-2021 20:35:21 America/Mexico_City] PHP Warning:  Undefined variable $granDescartar in /home/mabodvs/public_html/interfase/header.php on line 40
+[17-Nov-2021 20:35:21 America/Mexico_City] PHP Warning:  Undefined variable $seccionSub in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 25
+[17-Nov-2021 20:35:21 America/Mexico_City] PHP Warning:  Undefined variable $l in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 44
+[17-Nov-2021 20:35:21 America/Mexico_City] PHP Warning:  Undefined variable $l in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 76
+[17-Nov-2021 20:35:21 America/Mexico_City] PHP Warning:  Undefined variable $l in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 83
+[17-Nov-2021 20:35:21 America/Mexico_City] PHP Warning:  Undefined variable $avatarU in /home/mabodvs/public_html/_drivers/portrait/avatarForma.php on line 5
+[18-Nov-2021 02:39:06 UTC] PHP Warning:  Undefined variable $debug in /home/mabodvs/public_html/sesion/arriba.php on line 38
+[18-Nov-2021 02:39:06 UTC] PHP Warning:  Undefined array key "debug" in /home/mabodvs/public_html/sesion/arriba.php on line 39
+[17-Nov-2021 20:39:06 America/Mexico_City] PHP Warning:  Undefined variable $estoyAfuera in /home/mabodvs/public_html/control/magia.php on line 3
+[17-Nov-2021 20:39:06 America/Mexico_City] PHP Warning:  Undefined variable $menuPuesto in /home/mabodvs/public_html/interfase/menu.php on line 36
+[17-Nov-2021 20:39:06 America/Mexico_City] PHP Warning:  Undefined variable $granDescartar in /home/mabodvs/public_html/interfase/header.php on line 40
+[17-Nov-2021 20:39:06 America/Mexico_City] PHP Warning:  Undefined variable $seccionSub in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 25
+[17-Nov-2021 20:39:06 America/Mexico_City] PHP Warning:  Undefined variable $l in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 44
+[17-Nov-2021 20:39:06 America/Mexico_City] PHP Warning:  Undefined variable $l in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 76
+[17-Nov-2021 20:39:06 America/Mexico_City] PHP Warning:  Undefined variable $l in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 83
+[17-Nov-2021 20:39:06 America/Mexico_City] PHP Warning:  Undefined variable $avatarU in /home/mabodvs/public_html/_drivers/portrait/avatarForma.php on line 5
+[18-Nov-2021 02:41:15 UTC] PHP Warning:  Undefined variable $debug in /home/mabodvs/public_html/sesion/arriba.php on line 38
+[18-Nov-2021 02:41:15 UTC] PHP Warning:  Undefined array key "debug" in /home/mabodvs/public_html/sesion/arriba.php on line 39
+[17-Nov-2021 20:41:15 America/Mexico_City] PHP Warning:  Undefined variable $estoyAfuera in /home/mabodvs/public_html/control/magia.php on line 3
+[17-Nov-2021 20:41:15 America/Mexico_City] PHP Warning:  Undefined variable $menuPuesto in /home/mabodvs/public_html/interfase/menu.php on line 36
+[17-Nov-2021 20:41:15 America/Mexico_City] PHP Warning:  Undefined variable $granDescartar in /home/mabodvs/public_html/interfase/header.php on line 40
+[17-Nov-2021 20:41:15 America/Mexico_City] PHP Warning:  Undefined variable $seccionSub in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 25
+[17-Nov-2021 20:41:15 America/Mexico_City] PHP Warning:  Undefined variable $l in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 44
+[17-Nov-2021 20:41:15 America/Mexico_City] PHP Warning:  Undefined variable $l in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 76
+[17-Nov-2021 20:41:15 America/Mexico_City] PHP Warning:  Undefined variable $l in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 83
+[17-Nov-2021 20:41:15 America/Mexico_City] PHP Warning:  Undefined variable $avatarU in /home/mabodvs/public_html/_drivers/portrait/avatarForma.php on line 5
+[18-Nov-2021 02:42:30 UTC] PHP Warning:  Undefined variable $debug in /home/mabodvs/public_html/sesion/arriba.php on line 38
+[18-Nov-2021 02:42:30 UTC] PHP Warning:  Undefined array key "debug" in /home/mabodvs/public_html/sesion/arriba.php on line 39
+[17-Nov-2021 20:42:30 America/Mexico_City] PHP Warning:  Undefined variable $estoyAfuera in /home/mabodvs/public_html/control/magia.php on line 3
+[17-Nov-2021 20:42:30 America/Mexico_City] PHP Warning:  Undefined variable $menuPuesto in /home/mabodvs/public_html/interfase/menu.php on line 36
+[17-Nov-2021 20:42:30 America/Mexico_City] PHP Warning:  Undefined variable $granDescartar in /home/mabodvs/public_html/interfase/header.php on line 40
+[17-Nov-2021 20:42:30 America/Mexico_City] PHP Warning:  Undefined variable $seccionSub in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 25
+[17-Nov-2021 20:42:30 America/Mexico_City] PHP Warning:  Undefined variable $l in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 44
+[17-Nov-2021 20:42:30 America/Mexico_City] PHP Warning:  Undefined variable $l in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 76
+[17-Nov-2021 20:42:30 America/Mexico_City] PHP Warning:  Undefined variable $l in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 83
+[17-Nov-2021 20:42:30 America/Mexico_City] PHP Warning:  Undefined variable $avatarU in /home/mabodvs/public_html/_drivers/portrait/avatarForma.php on line 5
+[18-Nov-2021 02:42:37 UTC] PHP Warning:  Undefined variable $debug in /home/mabodvs/public_html/sesion/arriba.php on line 38
+[18-Nov-2021 02:42:37 UTC] PHP Warning:  Undefined array key "debug" in /home/mabodvs/public_html/sesion/arriba.php on line 39
+[17-Nov-2021 20:42:37 America/Mexico_City] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 12288 bytes) in /home/mabodvs/public_html/control/funciones.php on line 154
+[18-Nov-2021 02:43:43 UTC] PHP Warning:  Undefined variable $debug in /home/mabodvs/public_html/sesion/arriba.php on line 38
+[18-Nov-2021 02:43:43 UTC] PHP Warning:  Undefined array key "debug" in /home/mabodvs/public_html/sesion/arriba.php on line 39
+[17-Nov-2021 20:43:43 America/Mexico_City] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 12288 bytes) in /home/mabodvs/public_html/control/funciones.php on line 154
+[18-Nov-2021 02:44:48 UTC] PHP Warning:  Undefined variable $debug in /home/mabodvs/public_html/sesion/arriba.php on line 38
+[18-Nov-2021 02:44:48 UTC] PHP Warning:  Undefined array key "debug" in /home/mabodvs/public_html/sesion/arriba.php on line 39
+[17-Nov-2021 20:44:48 America/Mexico_City] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 12288 bytes) in /home/mabodvs/public_html/control/funciones.php on line 154
+[18-Nov-2021 02:45:02 UTC] PHP Warning:  Undefined variable $debug in /home/mabodvs/public_html/sesion/arriba.php on line 38
+[18-Nov-2021 02:45:02 UTC] PHP Warning:  Undefined array key "debug" in /home/mabodvs/public_html/sesion/arriba.php on line 39
+[17-Nov-2021 20:45:02 America/Mexico_City] PHP Warning:  Undefined variable $estoyAfuera in /home/mabodvs/public_html/control/magia.php on line 3
+[17-Nov-2021 20:45:02 America/Mexico_City] PHP Warning:  Undefined variable $menuPuesto in /home/mabodvs/public_html/interfase/menu.php on line 36
+[17-Nov-2021 20:45:02 America/Mexico_City] PHP Warning:  Undefined variable $granDescartar in /home/mabodvs/public_html/interfase/header.php on line 40
+[17-Nov-2021 20:45:02 America/Mexico_City] PHP Warning:  Undefined variable $seccionSub in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 25
+[17-Nov-2021 20:45:02 America/Mexico_City] PHP Warning:  Undefined variable $l in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 44
+[17-Nov-2021 20:45:02 America/Mexico_City] PHP Warning:  Undefined variable $l in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 76
+[17-Nov-2021 20:45:02 America/Mexico_City] PHP Warning:  Undefined variable $l in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 83
+[17-Nov-2021 20:45:02 America/Mexico_City] PHP Warning:  Undefined variable $avatarU in /home/mabodvs/public_html/_drivers/portrait/avatarForma.php on line 5
+[18-Nov-2021 02:45:07 UTC] PHP Warning:  Undefined variable $debug in /home/mabodvs/public_html/sesion/arriba.php on line 38
+[18-Nov-2021 02:45:07 UTC] PHP Warning:  Undefined array key "debug" in /home/mabodvs/public_html/sesion/arriba.php on line 39
+[17-Nov-2021 20:45:07 America/Mexico_City] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 12288 bytes) in /home/mabodvs/public_html/control/funciones.php on line 154
+[18-Nov-2021 02:45:26 UTC] PHP Warning:  Undefined variable $debug in /home/mabodvs/public_html/sesion/arriba.php on line 38
+[18-Nov-2021 02:45:26 UTC] PHP Warning:  Undefined array key "debug" in /home/mabodvs/public_html/sesion/arriba.php on line 39
+[17-Nov-2021 20:45:26 America/Mexico_City] PHP Warning:  Undefined variable $estoyAfuera in /home/mabodvs/public_html/control/magia.php on line 3
+[17-Nov-2021 20:45:26 America/Mexico_City] PHP Warning:  Undefined variable $menuPuesto in /home/mabodvs/public_html/interfase/menu.php on line 36
+[17-Nov-2021 20:45:26 America/Mexico_City] PHP Warning:  Undefined variable $granDescartar in /home/mabodvs/public_html/interfase/header.php on line 40
+[17-Nov-2021 20:45:26 America/Mexico_City] PHP Warning:  Undefined variable $seccionSub in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 25
+[17-Nov-2021 20:45:26 America/Mexico_City] PHP Warning:  Undefined variable $l in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 44
+[17-Nov-2021 20:45:26 America/Mexico_City] PHP Warning:  Undefined variable $l in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 76
+[17-Nov-2021 20:45:26 America/Mexico_City] PHP Warning:  Undefined variable $l in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 83
+[17-Nov-2021 20:45:26 America/Mexico_City] PHP Warning:  Undefined variable $avatarU in /home/mabodvs/public_html/_drivers/portrait/avatarForma.php on line 5
+[18-Nov-2021 02:45:29 UTC] PHP Warning:  Undefined variable $debug in /home/mabodvs/public_html/sesion/arriba.php on line 38
+[18-Nov-2021 02:45:29 UTC] PHP Warning:  Undefined array key "debug" in /home/mabodvs/public_html/sesion/arriba.php on line 39
+[17-Nov-2021 20:45:29 America/Mexico_City] PHP Warning:  Undefined variable $estoyAfuera in /home/mabodvs/public_html/control/magia.php on line 3
+[17-Nov-2021 20:45:29 America/Mexico_City] PHP Warning:  Undefined variable $menuPuesto in /home/mabodvs/public_html/interfase/menu.php on line 36
+[17-Nov-2021 20:45:29 America/Mexico_City] PHP Warning:  Undefined variable $granDescartar in /home/mabodvs/public_html/interfase/header.php on line 40
+[17-Nov-2021 20:45:29 America/Mexico_City] PHP Warning:  Undefined variable $seccionSub in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 25
+[17-Nov-2021 20:45:29 America/Mexico_City] PHP Warning:  Undefined variable $l in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 44
+[17-Nov-2021 20:45:29 America/Mexico_City] PHP Warning:  Undefined variable $l in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 76
+[17-Nov-2021 20:45:29 America/Mexico_City] PHP Warning:  Undefined variable $l in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 83
+[17-Nov-2021 20:45:29 America/Mexico_City] PHP Warning:  Undefined variable $avatarU in /home/mabodvs/public_html/_drivers/portrait/avatarForma.php on line 5
+[18-Nov-2021 02:46:06 UTC] PHP Warning:  Undefined variable $debug in /home/mabodvs/public_html/sesion/arriba.php on line 38
+[18-Nov-2021 02:46:06 UTC] PHP Warning:  Undefined array key "debug" in /home/mabodvs/public_html/sesion/arriba.php on line 39
+[17-Nov-2021 20:46:06 America/Mexico_City] PHP Warning:  Undefined variable $estoyAfuera in /home/mabodvs/public_html/control/magia.php on line 3
+[17-Nov-2021 20:46:06 America/Mexico_City] PHP Warning:  Undefined variable $menuPuesto in /home/mabodvs/public_html/interfase/menu.php on line 36
+[17-Nov-2021 20:46:06 America/Mexico_City] PHP Warning:  Undefined variable $granDescartar in /home/mabodvs/public_html/interfase/header.php on line 40
+[17-Nov-2021 20:46:06 America/Mexico_City] PHP Warning:  Undefined variable $seccionSub in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 25
+[17-Nov-2021 20:46:06 America/Mexico_City] PHP Warning:  Undefined variable $l in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 44
+[17-Nov-2021 20:46:06 America/Mexico_City] PHP Warning:  Undefined variable $l in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 76
+[17-Nov-2021 20:46:06 America/Mexico_City] PHP Warning:  Undefined variable $l in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 83
+[17-Nov-2021 20:46:06 America/Mexico_City] PHP Warning:  Undefined variable $avatarU in /home/mabodvs/public_html/_drivers/portrait/avatarForma.php on line 5
+[18-Nov-2021 02:46:11 UTC] PHP Warning:  Undefined variable $debug in /home/mabodvs/public_html/sesion/arriba.php on line 38
+[18-Nov-2021 02:46:11 UTC] PHP Warning:  Undefined array key "debug" in /home/mabodvs/public_html/sesion/arriba.php on line 39
+[17-Nov-2021 20:46:11 America/Mexico_City] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 12288 bytes) in /home/mabodvs/public_html/control/funciones.php on line 154
+[18-Nov-2021 02:47:01 UTC] PHP Warning:  Undefined variable $debug in /home/mabodvs/public_html/sesion/arriba.php on line 38
+[18-Nov-2021 02:47:01 UTC] PHP Warning:  Undefined array key "debug" in /home/mabodvs/public_html/sesion/arriba.php on line 39
+[17-Nov-2021 20:47:01 America/Mexico_City] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 12288 bytes) in /home/mabodvs/public_html/control/funciones.php on line 154
+[18-Nov-2021 02:47:53 UTC] PHP Warning:  Undefined variable $debug in /home/mabodvs/public_html/sesion/arriba.php on line 38
+[18-Nov-2021 02:47:53 UTC] PHP Warning:  Undefined array key "debug" in /home/mabodvs/public_html/sesion/arriba.php on line 39
+[17-Nov-2021 20:47:53 America/Mexico_City] PHP Warning:  Undefined variable $estoyAfuera in /home/mabodvs/public_html/control/magia.php on line 3
+[17-Nov-2021 20:47:53 America/Mexico_City] PHP Warning:  Undefined variable $menuPuesto in /home/mabodvs/public_html/interfase/menu.php on line 36
+[17-Nov-2021 20:47:53 America/Mexico_City] PHP Warning:  Undefined variable $granDescartar in /home/mabodvs/public_html/interfase/header.php on line 40
+[17-Nov-2021 20:47:53 America/Mexico_City] PHP Warning:  Undefined variable $seccionSub in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 25
+[17-Nov-2021 20:47:53 America/Mexico_City] PHP Warning:  Undefined variable $l in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 44
+[17-Nov-2021 20:47:53 America/Mexico_City] PHP Warning:  Undefined variable $l in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 76
+[17-Nov-2021 20:47:53 America/Mexico_City] PHP Warning:  Undefined variable $l in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 83
+[17-Nov-2021 20:47:53 America/Mexico_City] PHP Warning:  Undefined variable $avatarU in /home/mabodvs/public_html/_drivers/portrait/avatarForma.php on line 5
+[18-Nov-2021 02:47:57 UTC] PHP Warning:  Undefined variable $debug in /home/mabodvs/public_html/sesion/arriba.php on line 38
+[18-Nov-2021 02:47:57 UTC] PHP Warning:  Undefined array key "debug" in /home/mabodvs/public_html/sesion/arriba.php on line 39
+[17-Nov-2021 20:47:57 America/Mexico_City] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 12288 bytes) in /home/mabodvs/public_html/control/funciones.php on line 154
+[18-Nov-2021 02:48:54 UTC] PHP Warning:  Undefined variable $debug in /home/mabodvs/public_html/sesion/arriba.php on line 38
+[18-Nov-2021 02:48:54 UTC] PHP Warning:  Undefined array key "debug" in /home/mabodvs/public_html/sesion/arriba.php on line 39
+[17-Nov-2021 20:48:54 America/Mexico_City] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 12288 bytes) in /home/mabodvs/public_html/control/funciones.php on line 154
+[18-Nov-2021 02:49:58 UTC] PHP Parse error:  Unterminated comment starting line 62 in /home/mabodvs/public_html/sesion/arriba.php on line 62
+[18-Nov-2021 02:50:34 UTC] PHP Parse error:  Unterminated comment starting line 62 in /home/mabodvs/public_html/sesion/arriba.php on line 62
+[18-Nov-2021 02:50:36 UTC] PHP Parse error:  Unterminated comment starting line 62 in /home/mabodvs/public_html/sesion/arriba.php on line 62
+[18-Nov-2021 02:50:57 UTC] PHP Warning:  Undefined variable $debug in /home/mabodvs/public_html/sesion/arriba.php on line 38
+[18-Nov-2021 02:50:57 UTC] PHP Warning:  Undefined array key "debug" in /home/mabodvs/public_html/sesion/arriba.php on line 39
+[17-Nov-2021 20:50:57 America/Mexico_City] PHP Warning:  Undefined variable $estoyAfuera in /home/mabodvs/public_html/control/magia.php on line 3
+[17-Nov-2021 20:50:57 America/Mexico_City] PHP Warning:  Undefined variable $menuPuesto in /home/mabodvs/public_html/interfase/menu.php on line 36
+[17-Nov-2021 20:50:57 America/Mexico_City] PHP Warning:  Undefined variable $granDescartar in /home/mabodvs/public_html/interfase/header.php on line 40
+[17-Nov-2021 20:50:57 America/Mexico_City] PHP Warning:  Undefined variable $seccionSub in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 25
+[17-Nov-2021 20:50:57 America/Mexico_City] PHP Warning:  Undefined variable $l in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 44
+[17-Nov-2021 20:50:57 America/Mexico_City] PHP Warning:  Undefined variable $l in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 76
+[17-Nov-2021 20:50:57 America/Mexico_City] PHP Warning:  Undefined variable $l in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 83
+[17-Nov-2021 20:50:57 America/Mexico_City] PHP Warning:  Undefined variable $avatarU in /home/mabodvs/public_html/_drivers/portrait/avatarForma.php on line 5
+[18-Nov-2021 02:51:08 UTC] PHP Warning:  Undefined variable $debug in /home/mabodvs/public_html/sesion/arriba.php on line 38
+[18-Nov-2021 02:51:08 UTC] PHP Warning:  Undefined array key "debug" in /home/mabodvs/public_html/sesion/arriba.php on line 39
+[18-Nov-2021 02:53:37 UTC] PHP Warning:  Undefined variable $debug in /home/mabodvs/public_html/sesion/arriba.php on line 38
+[18-Nov-2021 02:53:37 UTC] PHP Warning:  Undefined array key "debug" in /home/mabodvs/public_html/sesion/arriba.php on line 39
+[17-Nov-2021 20:53:37 America/Mexico_City] PHP Warning:  Undefined variable $estoyAfuera in /home/mabodvs/public_html/control/magia.php on line 3
+[17-Nov-2021 20:53:37 America/Mexico_City] PHP Warning:  Undefined variable $menuPuesto in /home/mabodvs/public_html/interfase/menu.php on line 36
+[17-Nov-2021 20:53:37 America/Mexico_City] PHP Warning:  Undefined variable $granDescartar in /home/mabodvs/public_html/interfase/header.php on line 40
+[17-Nov-2021 20:53:37 America/Mexico_City] PHP Warning:  Undefined variable $seccionSub in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 25
+[17-Nov-2021 20:53:37 America/Mexico_City] PHP Warning:  Undefined variable $l in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 44
+[17-Nov-2021 20:53:37 America/Mexico_City] PHP Warning:  Undefined variable $l in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 76
+[17-Nov-2021 20:53:37 America/Mexico_City] PHP Warning:  Undefined variable $l in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 83
+[17-Nov-2021 20:53:37 America/Mexico_City] PHP Warning:  Undefined variable $avatarU in /home/mabodvs/public_html/_drivers/portrait/avatarForma.php on line 5
+[18-Nov-2021 02:53:41 UTC] PHP Warning:  Undefined variable $debug in /home/mabodvs/public_html/sesion/arriba.php on line 38
+[18-Nov-2021 02:53:41 UTC] PHP Warning:  Undefined array key "debug" in /home/mabodvs/public_html/sesion/arriba.php on line 39
+[18-Nov-2021 02:54:39 UTC] PHP Warning:  Undefined variable $debug in /home/mabodvs/public_html/sesion/arriba.php on line 38
+[18-Nov-2021 02:54:39 UTC] PHP Warning:  Undefined array key "debug" in /home/mabodvs/public_html/sesion/arriba.php on line 39
+[17-Nov-2021 20:54:39 America/Mexico_City] PHP Warning:  Undefined variable $estoyAfuera in /home/mabodvs/public_html/control/magia.php on line 3
+[17-Nov-2021 20:54:39 America/Mexico_City] PHP Warning:  Undefined variable $menuPuesto in /home/mabodvs/public_html/interfase/menu.php on line 36
+[17-Nov-2021 20:54:39 America/Mexico_City] PHP Warning:  Undefined variable $granDescartar in /home/mabodvs/public_html/interfase/header.php on line 40
+[17-Nov-2021 20:54:39 America/Mexico_City] PHP Warning:  Undefined variable $seccionSub in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 25
+[17-Nov-2021 20:54:39 America/Mexico_City] PHP Warning:  Undefined variable $l in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 44
+[17-Nov-2021 20:54:39 America/Mexico_City] PHP Warning:  Undefined variable $l in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 76
+[17-Nov-2021 20:54:39 America/Mexico_City] PHP Warning:  Undefined variable $l in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 83
+[17-Nov-2021 20:54:39 America/Mexico_City] PHP Warning:  Undefined variable $avatarU in /home/mabodvs/public_html/_drivers/portrait/avatarForma.php on line 5
+[18-Nov-2021 02:54:43 UTC] PHP Warning:  Undefined variable $debug in /home/mabodvs/public_html/sesion/arriba.php on line 38
+[18-Nov-2021 02:54:43 UTC] PHP Warning:  Undefined array key "debug" in /home/mabodvs/public_html/sesion/arriba.php on line 39
+[18-Nov-2021 02:54:57 UTC] PHP Warning:  Undefined variable $debug in /home/mabodvs/public_html/sesion/arriba.php on line 38
+[18-Nov-2021 02:54:57 UTC] PHP Warning:  Undefined array key "debug" in /home/mabodvs/public_html/sesion/arriba.php on line 39
+[17-Nov-2021 20:54:57 America/Mexico_City] PHP Warning:  Undefined variable $estoyAfuera in /home/mabodvs/public_html/control/magia.php on line 3
+[17-Nov-2021 20:54:57 America/Mexico_City] PHP Warning:  Undefined variable $menuPuesto in /home/mabodvs/public_html/interfase/menu.php on line 36
+[17-Nov-2021 20:54:57 America/Mexico_City] PHP Warning:  Undefined variable $granDescartar in /home/mabodvs/public_html/interfase/header.php on line 40
+[17-Nov-2021 20:54:57 America/Mexico_City] PHP Warning:  Undefined variable $seccionSub in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 25
+[17-Nov-2021 20:54:57 America/Mexico_City] PHP Warning:  Undefined variable $l in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 44
+[17-Nov-2021 20:54:57 America/Mexico_City] PHP Warning:  Undefined variable $l in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 76
+[17-Nov-2021 20:54:57 America/Mexico_City] PHP Warning:  Undefined variable $l in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 83
+[17-Nov-2021 20:54:57 America/Mexico_City] PHP Warning:  Undefined variable $avatarU in /home/mabodvs/public_html/_drivers/portrait/avatarForma.php on line 5
+[18-Nov-2021 02:55:02 UTC] PHP Warning:  Undefined variable $debug in /home/mabodvs/public_html/sesion/arriba.php on line 38
+[18-Nov-2021 02:55:02 UTC] PHP Warning:  Undefined array key "debug" in /home/mabodvs/public_html/sesion/arriba.php on line 39
+[18-Nov-2021 02:55:38 UTC] PHP Warning:  Undefined variable $debug in /home/mabodvs/public_html/sesion/arriba.php on line 38
+[18-Nov-2021 02:55:38 UTC] PHP Warning:  Undefined array key "debug" in /home/mabodvs/public_html/sesion/arriba.php on line 39
+[17-Nov-2021 20:55:38 America/Mexico_City] PHP Warning:  Undefined variable $estoyAfuera in /home/mabodvs/public_html/control/magia.php on line 3
+[17-Nov-2021 20:55:38 America/Mexico_City] PHP Warning:  Undefined variable $menuPuesto in /home/mabodvs/public_html/interfase/menu.php on line 36
+[17-Nov-2021 20:55:38 America/Mexico_City] PHP Warning:  Undefined variable $granDescartar in /home/mabodvs/public_html/interfase/header.php on line 40
+[17-Nov-2021 20:55:38 America/Mexico_City] PHP Warning:  Undefined variable $seccionSub in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 25
+[17-Nov-2021 20:55:38 America/Mexico_City] PHP Warning:  Undefined variable $l in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 44
+[17-Nov-2021 20:55:38 America/Mexico_City] PHP Warning:  Undefined variable $l in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 76
+[17-Nov-2021 20:55:38 America/Mexico_City] PHP Warning:  Undefined variable $l in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 83
+[17-Nov-2021 20:55:38 America/Mexico_City] PHP Warning:  Undefined variable $avatarU in /home/mabodvs/public_html/_drivers/portrait/avatarForma.php on line 5
+[18-Nov-2021 02:55:42 UTC] PHP Warning:  Undefined variable $debug in /home/mabodvs/public_html/sesion/arriba.php on line 38
+[18-Nov-2021 02:55:42 UTC] PHP Warning:  Undefined array key "debug" in /home/mabodvs/public_html/sesion/arriba.php on line 39
+[18-Nov-2021 02:55:49 UTC] PHP Warning:  Undefined variable $debug in /home/mabodvs/public_html/sesion/arriba.php on line 38
+[18-Nov-2021 02:55:49 UTC] PHP Warning:  Undefined array key "debug" in /home/mabodvs/public_html/sesion/arriba.php on line 39
+[18-Nov-2021 02:55:49 UTC] PHP Warning:  Undefined variable $debug in /home/mabodvs/public_html/sesion/arriba.php on line 38
+[18-Nov-2021 02:55:49 UTC] PHP Warning:  Undefined array key "debug" in /home/mabodvs/public_html/sesion/arriba.php on line 39
+[17-Nov-2021 20:55:49 America/Mexico_City] PHP Warning:  Undefined variable $estoyAfuera in /home/mabodvs/public_html/control/magia.php on line 3
+[17-Nov-2021 20:55:49 America/Mexico_City] PHP Warning:  Undefined variable $menuPuesto in /home/mabodvs/public_html/interfase/menu.php on line 36
+[17-Nov-2021 20:55:49 America/Mexico_City] PHP Warning:  Undefined variable $granDescartar in /home/mabodvs/public_html/interfase/header.php on line 40
+[17-Nov-2021 20:55:49 America/Mexico_City] PHP Warning:  Undefined variable $seccionSub in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 25
+[17-Nov-2021 20:55:49 America/Mexico_City] PHP Warning:  Undefined variable $l in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 44
+[17-Nov-2021 20:55:49 America/Mexico_City] PHP Warning:  Undefined variable $l in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 76
+[17-Nov-2021 20:55:49 America/Mexico_City] PHP Warning:  Undefined variable $l in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 83
+[17-Nov-2021 20:55:49 America/Mexico_City] PHP Warning:  Undefined variable $avatarU in /home/mabodvs/public_html/_drivers/portrait/avatarForma.php on line 5
+[18-Nov-2021 02:56:51 UTC] PHP Warning:  Undefined variable $debug in /home/mabodvs/public_html/sesion/arriba.php on line 38
+[18-Nov-2021 02:56:51 UTC] PHP Warning:  Undefined array key "debug" in /home/mabodvs/public_html/sesion/arriba.php on line 39
+[17-Nov-2021 20:56:51 America/Mexico_City] PHP Warning:  Undefined variable $estoyAfuera in /home/mabodvs/public_html/control/magia.php on line 3
+[17-Nov-2021 20:56:51 America/Mexico_City] PHP Warning:  Undefined variable $menuPuesto in /home/mabodvs/public_html/interfase/menu.php on line 36
+[17-Nov-2021 20:56:51 America/Mexico_City] PHP Warning:  Undefined variable $granDescartar in /home/mabodvs/public_html/interfase/header.php on line 40
+[17-Nov-2021 20:56:51 America/Mexico_City] PHP Warning:  Undefined variable $seccionSub in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 26
+[17-Nov-2021 20:56:51 America/Mexico_City] PHP Warning:  Undefined variable $l in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 45
+[17-Nov-2021 20:56:51 America/Mexico_City] PHP Warning:  Undefined variable $l in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 77
+[17-Nov-2021 20:56:51 America/Mexico_City] PHP Warning:  Undefined variable $l in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 84
+[18-Nov-2021 02:57:23 UTC] PHP Warning:  Undefined variable $debug in /home/mabodvs/public_html/sesion/arriba.php on line 38
+[18-Nov-2021 02:57:23 UTC] PHP Warning:  Undefined array key "debug" in /home/mabodvs/public_html/sesion/arriba.php on line 39
+[17-Nov-2021 20:57:23 America/Mexico_City] PHP Warning:  Undefined variable $estoyAfuera in /home/mabodvs/public_html/control/magia.php on line 3
+[17-Nov-2021 20:57:23 America/Mexico_City] PHP Warning:  Undefined variable $menuPuesto in /home/mabodvs/public_html/interfase/menu.php on line 36
+[17-Nov-2021 20:57:23 America/Mexico_City] PHP Warning:  Undefined variable $granDescartar in /home/mabodvs/public_html/interfase/header.php on line 40
+[17-Nov-2021 20:57:23 America/Mexico_City] PHP Warning:  Undefined variable $seccionSub in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 26
+[17-Nov-2021 20:57:23 America/Mexico_City] PHP Warning:  Undefined variable $l in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 45
+[17-Nov-2021 20:57:23 America/Mexico_City] PHP Warning:  Undefined variable $l in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 77
+[17-Nov-2021 20:57:23 America/Mexico_City] PHP Warning:  Undefined variable $l in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 84
+[18-Nov-2021 02:58:32 UTC] PHP Warning:  Undefined variable $debug in /home/mabodvs/public_html/sesion/arriba.php on line 38
+[18-Nov-2021 02:58:32 UTC] PHP Warning:  Undefined array key "debug" in /home/mabodvs/public_html/sesion/arriba.php on line 39
+[17-Nov-2021 20:58:32 America/Mexico_City] PHP Warning:  Undefined variable $estoyAfuera in /home/mabodvs/public_html/control/magia.php on line 3
+[17-Nov-2021 20:58:32 America/Mexico_City] PHP Warning:  Undefined variable $menuPuesto in /home/mabodvs/public_html/interfase/menu.php on line 36
+[17-Nov-2021 20:58:32 America/Mexico_City] PHP Warning:  Undefined variable $granDescartar in /home/mabodvs/public_html/interfase/header.php on line 40
+[17-Nov-2021 20:58:32 America/Mexico_City] PHP Warning:  Undefined variable $seccionSub in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 26
+[17-Nov-2021 20:58:32 America/Mexico_City] PHP Warning:  Undefined variable $l in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 45
+[17-Nov-2021 20:58:32 America/Mexico_City] PHP Warning:  Undefined variable $l in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 77
+[17-Nov-2021 20:58:32 America/Mexico_City] PHP Warning:  Undefined variable $l in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 84
+[22-Nov-2021 22:39:57 UTC] PHP Warning:  Undefined variable $debug in /home/mabodvs/public_html/sesion/arriba.php on line 38
+[22-Nov-2021 22:39:57 UTC] PHP Warning:  Undefined array key "debug" in /home/mabodvs/public_html/sesion/arriba.php on line 39
+[22-Nov-2021 16:39:57 America/Mexico_City] PHP Warning:  Undefined variable $estoyAfuera in /home/mabodvs/public_html/control/magia.php on line 3
+[22-Nov-2021 16:39:57 America/Mexico_City] PHP Warning:  Undefined variable $menuPuesto in /home/mabodvs/public_html/interfase/menu.php on line 36
+[22-Nov-2021 16:39:57 America/Mexico_City] PHP Warning:  Undefined variable $granDescartar in /home/mabodvs/public_html/interfase/header.php on line 42
+[22-Nov-2021 16:39:57 America/Mexico_City] PHP Warning:  Undefined variable $seccionSub in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 26
+[22-Nov-2021 16:39:57 America/Mexico_City] PHP Warning:  Undefined variable $l in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 45
+[22-Nov-2021 16:39:57 America/Mexico_City] PHP Warning:  Undefined variable $l in /home/mabodvs/public_html/_drivers/drivers/tabsD.php on line 74

@@ -1,0 +1,15 @@
+.tablaCalendario { border-collapse: collapse; table-layout: fixed;}
+.tablaCalendario td {vertical-align: top; padding: 0;}
+.diaMes{ min-height: 150px; max-width: 20%; border: 1px solid #ccc;}
+.diaBolita { width: 25px; height: 25px; border-radius: 50px; text-align: center; line-height: 25px; margin: auto; transition: .1s linear; }
+.diaBolita:hover { background-color: #ebebeb;}
+.diaBolitaHoy { background-color: #678dc1 !important; color: #FFF !important;}
+.diaInactivo{background-color: #f1f1f1; }
+
+
+.colorBolita { width: 30px; height: 30px; border-radius: 50px; float: left; border: 1px solid #FFF; opacity: .3; transition: .1s linear; color: #FFF; margin-right: 3px;}
+.colorBolita:hover { border: 1px solid #999; opacity: 1;   }
+
+.colorBolitaP { border: 1px solid #999; opacity: 1; text-align: center; line-height: 30px; color: #FFF; font-size: 18px;}
+
+.eventosEventos{ float: left; margin-bottom: 2px; padding: 5px; height: 72px; }

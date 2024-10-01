@@ -1,0 +1,20 @@
+[18-Sep-2023 17:15:41 America/Mexico_City] PHP Warning:  Undefined variable $debug in /home/tooltec/public_html/Admin/sesion/arriba.php on line 50
+[18-Sep-2023 17:15:41 America/Mexico_City] PHP Warning:  Undefined array key "debug" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 51
+[18-Sep-2023 17:15:41 America/Mexico_City] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/tooltec/public_html/Admin/control/funciones.php on line 973
+[18-Sep-2023 17:15:41 America/Mexico_City] PHP Warning:  Undefined array key "HTTP_CLIENT_IP" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 64
+[18-Sep-2023 17:15:41 America/Mexico_City] PHP Warning:  Undefined array key "HTTP_X_FORWARDE‌​D_FOR" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 64
+[18-Sep-2023 17:15:45 America/Mexico_City] PHP Warning:  Undefined variable $debug in /home/tooltec/public_html/Admin/sesion/arriba.php on line 50
+[18-Sep-2023 17:15:45 America/Mexico_City] PHP Warning:  Undefined array key "debug" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 51
+[18-Sep-2023 17:15:45 America/Mexico_City] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/tooltec/public_html/Admin/control/funciones.php on line 973
+[18-Sep-2023 17:15:45 America/Mexico_City] PHP Warning:  Undefined array key "HTTP_CLIENT_IP" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 64
+[18-Sep-2023 17:15:45 America/Mexico_City] PHP Warning:  Undefined array key "HTTP_X_FORWARDE‌​D_FOR" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 64
+[19-Sep-2023 14:22:44 America/Mexico_City] PHP Warning:  Undefined variable $debug in /home/tooltec/public_html/Admin/sesion/arriba.php on line 50
+[19-Sep-2023 14:22:46 America/Mexico_City] PHP Warning:  Undefined array key "debug" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 51
+[19-Sep-2023 14:22:46 America/Mexico_City] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/tooltec/public_html/Admin/control/funciones.php on line 973
+[19-Sep-2023 14:22:46 America/Mexico_City] PHP Warning:  Undefined array key "HTTP_CLIENT_IP" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 64
+[19-Sep-2023 14:22:46 America/Mexico_City] PHP Warning:  Undefined array key "HTTP_X_FORWARDE‌​D_FOR" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 64
+[21-Sep-2023 09:39:30 America/Mexico_City] PHP Warning:  Undefined variable $debug in /home/tooltec/public_html/Admin/sesion/arriba.php on line 50
+[21-Sep-2023 09:39:30 America/Mexico_City] PHP Warning:  Undefined array key "debug" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 51
+[21-Sep-2023 09:39:30 America/Mexico_City] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/tooltec/public_html/Admin/control/funciones.php on line 973
+[21-Sep-2023 09:39:30 America/Mexico_City] PHP Warning:  Undefined array key "HTTP_CLIENT_IP" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 64
+[21-Sep-2023 09:39:30 America/Mexico_City] PHP Warning:  Undefined array key "HTTP_X_FORWARDE‌​D_FOR" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 64

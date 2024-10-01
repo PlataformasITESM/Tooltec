@@ -1,0 +1,10 @@
+.textoFooter{font-family: 'Poppins', sans-serif; font-size: 13px;}
+.textoChico {font-family: 'Poppins', sans-serif; font-size: 10px;}
+.textoSubmenu {font-family: 'Poppins', sans-serif; font-size: 14px; color:#FFF;}
+
+.textoBoton {font-family: 'Poppins', sans-serif; font-size: 16px; font-weight: 600; background-color:#ED8B00 ; color:#FFF;}
+
+.textoRegular {font-family: 'Roboto', sans-serif; font-size: 18px;   }
+
+.ligaFooter{ transition:.2s linear; padding-top:5px; padding-bottom:5px; }
+.ligaFooter:hover{  padding-left:10px;}

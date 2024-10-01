@@ -1,0 +1,265 @@
+[06-Sep-2023 18:52:17 America/Mexico_City] PHP Warning:  Undefined variable $debug in /home/tooltec/public_html/Admin/sesion/arriba.php on line 50
+[06-Sep-2023 18:52:17 America/Mexico_City] PHP Warning:  Undefined array key "debug" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 51
+[06-Sep-2023 18:52:17 America/Mexico_City] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/tooltec/public_html/Admin/control/funciones.php on line 973
+[06-Sep-2023 18:52:17 America/Mexico_City] PHP Warning:  Undefined array key "HTTP_CLIENT_IP" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 64
+[06-Sep-2023 18:52:17 America/Mexico_City] PHP Warning:  Undefined array key "HTTP_X_FORWARDE‌​D_FOR" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 64
+[06-Sep-2023 18:52:17 America/Mexico_City] PHP Warning:  Undefined array key "mientras" in /home/tooltec/public_html/Admin/_login/validate.php on line 2
+[06-Sep-2023 18:52:17 America/Mexico_City] PHP Warning:  Undefined variable $nomina in /home/tooltec/public_html/Admin/_login/validate.php on line 8
+[06-Sep-2023 18:52:17 America/Mexico_City] PHP Deprecated:  str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/tooltec/public_html/Admin/control/funciones.php on line 954
+[06-Sep-2023 18:52:17 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function curl_init() in /home/tooltec/public_html/Admin/_login/validate.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/tooltec/public_html/Admin/_login/validate.php on line 28
+[06-Sep-2023 18:52:21 America/Mexico_City] PHP Warning:  Undefined variable $debug in /home/tooltec/public_html/Admin/sesion/arriba.php on line 50
+[06-Sep-2023 18:52:21 America/Mexico_City] PHP Warning:  Undefined array key "debug" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 51
+[06-Sep-2023 18:52:21 America/Mexico_City] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/tooltec/public_html/Admin/control/funciones.php on line 973
+[06-Sep-2023 18:52:21 America/Mexico_City] PHP Warning:  Undefined array key "HTTP_CLIENT_IP" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 64
+[06-Sep-2023 18:52:21 America/Mexico_City] PHP Warning:  Undefined array key "HTTP_X_FORWARDE‌​D_FOR" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 64
+[06-Sep-2023 18:52:21 America/Mexico_City] PHP Warning:  Undefined array key "mientras" in /home/tooltec/public_html/Admin/_login/validate.php on line 2
+[06-Sep-2023 18:52:21 America/Mexico_City] PHP Warning:  Undefined variable $nomina in /home/tooltec/public_html/Admin/_login/validate.php on line 8
+[06-Sep-2023 18:52:21 America/Mexico_City] PHP Deprecated:  str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/tooltec/public_html/Admin/control/funciones.php on line 954
+[06-Sep-2023 18:52:21 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function curl_init() in /home/tooltec/public_html/Admin/_login/validate.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/tooltec/public_html/Admin/_login/validate.php on line 28
+[06-Sep-2023 18:52:27 America/Mexico_City] PHP Warning:  Undefined variable $debug in /home/tooltec/public_html/Admin/sesion/arriba.php on line 50
+[06-Sep-2023 18:52:27 America/Mexico_City] PHP Warning:  Undefined array key "debug" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 51
+[06-Sep-2023 18:52:27 America/Mexico_City] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/tooltec/public_html/Admin/control/funciones.php on line 973
+[06-Sep-2023 18:52:27 America/Mexico_City] PHP Warning:  Undefined array key "HTTP_CLIENT_IP" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 64
+[06-Sep-2023 18:52:27 America/Mexico_City] PHP Warning:  Undefined array key "HTTP_X_FORWARDE‌​D_FOR" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 64
+[06-Sep-2023 18:52:27 America/Mexico_City] PHP Warning:  Undefined array key "mientras" in /home/tooltec/public_html/Admin/_login/validate.php on line 2
+[06-Sep-2023 18:52:27 America/Mexico_City] PHP Warning:  Undefined variable $contra in /home/tooltec/public_html/Admin/_login/validate.php on line 7
+[06-Sep-2023 18:52:27 America/Mexico_City] PHP Warning:  Undefined variable $nomina in /home/tooltec/public_html/Admin/_login/validate.php on line 8
+[06-Sep-2023 18:52:27 America/Mexico_City] PHP Deprecated:  str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/tooltec/public_html/Admin/control/funciones.php on line 954
+[06-Sep-2023 18:52:27 America/Mexico_City] PHP Warning:  Undefined variable $toq in /home/tooltec/public_html/Admin/_login/validate.php on line 13
+[06-Sep-2023 18:52:32 America/Mexico_City] PHP Warning:  Undefined variable $debug in /home/tooltec/public_html/Admin/sesion/arriba.php on line 50
+[06-Sep-2023 18:52:32 America/Mexico_City] PHP Warning:  Undefined array key "HTTP_CLIENT_IP" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 64
+[06-Sep-2023 18:52:32 America/Mexico_City] PHP Warning:  Undefined array key "HTTP_X_FORWARDE‌​D_FOR" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 64
+[06-Sep-2023 18:52:32 America/Mexico_City] PHP Warning:  Undefined array key "mientras" in /home/tooltec/public_html/Admin/_login/validate.php on line 2
+[06-Sep-2023 18:52:32 America/Mexico_City] PHP Warning:  Undefined variable $contra in /home/tooltec/public_html/Admin/_login/validate.php on line 7
+[06-Sep-2023 18:52:32 America/Mexico_City] PHP Warning:  Undefined variable $nomina in /home/tooltec/public_html/Admin/_login/validate.php on line 8
+[06-Sep-2023 18:52:32 America/Mexico_City] PHP Deprecated:  str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/tooltec/public_html/Admin/control/funciones.php on line 954
+[06-Sep-2023 18:52:32 America/Mexico_City] PHP Warning:  Undefined variable $toq in /home/tooltec/public_html/Admin/_login/validate.php on line 13
+[06-Sep-2023 18:53:15 America/Mexico_City] PHP Warning:  Undefined variable $debug in /home/tooltec/public_html/Admin/sesion/arriba.php on line 50
+[06-Sep-2023 18:53:15 America/Mexico_City] PHP Warning:  Undefined array key "debug" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 51
+[06-Sep-2023 18:53:15 America/Mexico_City] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/tooltec/public_html/Admin/control/funciones.php on line 973
+[06-Sep-2023 18:53:15 America/Mexico_City] PHP Warning:  Undefined array key "HTTP_CLIENT_IP" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 64
+[06-Sep-2023 18:53:15 America/Mexico_City] PHP Warning:  Undefined array key "HTTP_X_FORWARDE‌​D_FOR" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 64
+[06-Sep-2023 18:53:15 America/Mexico_City] PHP Warning:  Undefined array key "mientras" in /home/tooltec/public_html/Admin/_login/validate.php on line 2
+[06-Sep-2023 18:53:15 America/Mexico_City] PHP Warning:  Undefined variable $contra in /home/tooltec/public_html/Admin/_login/validate.php on line 7
+[06-Sep-2023 18:53:15 America/Mexico_City] PHP Warning:  Undefined variable $nomina in /home/tooltec/public_html/Admin/_login/validate.php on line 8
+[06-Sep-2023 18:53:15 America/Mexico_City] PHP Deprecated:  str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/tooltec/public_html/Admin/control/funciones.php on line 954
+[06-Sep-2023 18:53:15 America/Mexico_City] PHP Warning:  Undefined variable $toq in /home/tooltec/public_html/Admin/_login/validate.php on line 13
+[06-Sep-2023 18:53:35 America/Mexico_City] PHP Warning:  Undefined variable $debug in /home/tooltec/public_html/Admin/sesion/arriba.php on line 50
+[06-Sep-2023 18:53:35 America/Mexico_City] PHP Warning:  Undefined array key "debug" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 51
+[06-Sep-2023 18:53:35 America/Mexico_City] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/tooltec/public_html/Admin/control/funciones.php on line 973
+[06-Sep-2023 18:53:35 America/Mexico_City] PHP Warning:  Undefined array key "HTTP_CLIENT_IP" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 64
+[06-Sep-2023 18:53:35 America/Mexico_City] PHP Warning:  Undefined array key "HTTP_X_FORWARDE‌​D_FOR" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 64
+[06-Sep-2023 18:53:35 America/Mexico_City] PHP Warning:  Undefined array key "mientras" in /home/tooltec/public_html/Admin/_login/validate.php on line 2
+[06-Sep-2023 18:53:35 America/Mexico_City] PHP Warning:  Undefined variable $nomina in /home/tooltec/public_html/Admin/_login/validate.php on line 8
+[06-Sep-2023 18:53:35 America/Mexico_City] PHP Deprecated:  str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/tooltec/public_html/Admin/control/funciones.php on line 954
+[06-Sep-2023 18:53:35 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function curl_init() in /home/tooltec/public_html/Admin/_login/validate.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/tooltec/public_html/Admin/_login/validate.php on line 28
+[06-Sep-2023 19:07:52 America/Mexico_City] PHP Warning:  Undefined variable $debug in /home/tooltec/public_html/Admin/sesion/arriba.php on line 50
+[06-Sep-2023 19:07:52 America/Mexico_City] PHP Warning:  Undefined array key "debug" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 51
+[06-Sep-2023 19:07:52 America/Mexico_City] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/tooltec/public_html/Admin/control/funciones.php on line 973
+[06-Sep-2023 19:07:52 America/Mexico_City] PHP Warning:  Undefined array key "HTTP_CLIENT_IP" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 64
+[06-Sep-2023 19:07:52 America/Mexico_City] PHP Warning:  Undefined array key "HTTP_X_FORWARDE‌​D_FOR" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 64
+[06-Sep-2023 19:07:52 America/Mexico_City] PHP Warning:  Undefined array key "mientras" in /home/tooltec/public_html/Admin/_login/validate.php on line 2
+[06-Sep-2023 19:07:52 America/Mexico_City] PHP Warning:  Undefined variable $nomina in /home/tooltec/public_html/Admin/_login/validate.php on line 8
+[06-Sep-2023 19:07:52 America/Mexico_City] PHP Deprecated:  str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/tooltec/public_html/Admin/control/funciones.php on line 954
+[06-Sep-2023 19:07:52 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function curl_init() in /home/tooltec/public_html/Admin/_login/validate.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/tooltec/public_html/Admin/_login/validate.php on line 28
+[06-Sep-2023 19:08:32 America/Mexico_City] PHP Warning:  Undefined variable $debug in /home/tooltec/public_html/Admin/sesion/arriba.php on line 50
+[06-Sep-2023 19:08:32 America/Mexico_City] PHP Warning:  Undefined array key "debug" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 51
+[06-Sep-2023 19:08:32 America/Mexico_City] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/tooltec/public_html/Admin/control/funciones.php on line 973
+[06-Sep-2023 19:08:32 America/Mexico_City] PHP Warning:  Undefined array key "HTTP_CLIENT_IP" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 64
+[06-Sep-2023 19:08:32 America/Mexico_City] PHP Warning:  Undefined array key "HTTP_X_FORWARDE‌​D_FOR" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 64
+[06-Sep-2023 19:08:32 America/Mexico_City] PHP Warning:  Undefined array key "mientras" in /home/tooltec/public_html/Admin/_login/validate.php on line 2
+[06-Sep-2023 19:08:32 America/Mexico_City] PHP Warning:  Undefined variable $nomina in /home/tooltec/public_html/Admin/_login/validate.php on line 8
+[06-Sep-2023 19:08:32 America/Mexico_City] PHP Deprecated:  str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/tooltec/public_html/Admin/control/funciones.php on line 954
+[06-Sep-2023 19:08:32 America/Mexico_City] PHP Warning:  Undefined variable $email in /home/tooltec/public_html/Admin/_login/validate.php on line 44
+[06-Sep-2023 19:08:32 America/Mexico_City] PHP Warning:  Undefined variable $password in /home/tooltec/public_html/Admin/_login/validate.php on line 117
+[07-Sep-2023 09:55:20 America/Mexico_City] PHP Warning:  Undefined variable $debug in /home/tooltec/public_html/Admin/sesion/arriba.php on line 50
+[07-Sep-2023 09:55:20 America/Mexico_City] PHP Warning:  Undefined array key "debug" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 51
+[07-Sep-2023 09:55:20 America/Mexico_City] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/tooltec/public_html/Admin/control/funciones.php on line 973
+[07-Sep-2023 09:55:20 America/Mexico_City] PHP Warning:  Undefined array key "HTTP_CLIENT_IP" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 64
+[07-Sep-2023 09:55:20 America/Mexico_City] PHP Warning:  Undefined array key "HTTP_X_FORWARDE‌​D_FOR" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 64
+[07-Sep-2023 09:55:20 America/Mexico_City] PHP Warning:  Undefined array key "mientras" in /home/tooltec/public_html/Admin/_login/validate.php on line 2
+[07-Sep-2023 09:55:20 America/Mexico_City] PHP Warning:  Undefined variable $nomina in /home/tooltec/public_html/Admin/_login/validate.php on line 8
+[07-Sep-2023 09:55:20 America/Mexico_City] PHP Deprecated:  str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/tooltec/public_html/Admin/control/funciones.php on line 954
+[07-Sep-2023 09:57:30 America/Mexico_City] PHP Warning:  Undefined variable $debug in /home/tooltec/public_html/Admin/sesion/arriba.php on line 50
+[07-Sep-2023 09:57:30 America/Mexico_City] PHP Warning:  Undefined array key "debug" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 51
+[07-Sep-2023 09:57:30 America/Mexico_City] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/tooltec/public_html/Admin/control/funciones.php on line 973
+[07-Sep-2023 09:57:30 America/Mexico_City] PHP Warning:  Undefined array key "HTTP_CLIENT_IP" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 64
+[07-Sep-2023 09:57:30 America/Mexico_City] PHP Warning:  Undefined array key "HTTP_X_FORWARDE‌​D_FOR" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 64
+[07-Sep-2023 09:57:30 America/Mexico_City] PHP Warning:  Undefined array key "mientras" in /home/tooltec/public_html/Admin/_login/validate.php on line 2
+[07-Sep-2023 09:57:30 America/Mexico_City] PHP Warning:  Undefined variable $nomina in /home/tooltec/public_html/Admin/_login/validate.php on line 8
+[07-Sep-2023 09:57:30 America/Mexico_City] PHP Deprecated:  str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/tooltec/public_html/Admin/control/funciones.php on line 954
+[07-Sep-2023 09:57:30 America/Mexico_City] PHP Warning:  Undefined variable $email in /home/tooltec/public_html/Admin/_login/validate.php on line 44
+[07-Sep-2023 09:57:30 America/Mexico_City] PHP Warning:  Undefined array key "validado" in /home/tooltec/public_html/Admin/_login/validate.php on line 58
+[07-Sep-2023 09:57:30 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tooltec/public_html/Admin/_login/validate.php:2) in /home/tooltec/public_html/Admin/_login/validate.php on line 87
+[07-Sep-2023 09:57:30 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tooltec/public_html/Admin/_login/validate.php:2) in /home/tooltec/public_html/Admin/_login/validate.php on line 106
+[20-Sep-2023 08:22:37 America/Mexico_City] PHP Warning:  Undefined variable $debug in /home/tooltec/public_html/Admin/sesion/arriba.php on line 50
+[20-Sep-2023 08:22:37 America/Mexico_City] PHP Warning:  Undefined array key "debug" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 51
+[20-Sep-2023 08:22:37 America/Mexico_City] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/tooltec/public_html/Admin/control/funciones.php on line 973
+[20-Sep-2023 08:22:37 America/Mexico_City] PHP Warning:  Undefined array key "HTTP_CLIENT_IP" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 64
+[20-Sep-2023 08:22:37 America/Mexico_City] PHP Warning:  Undefined array key "HTTP_X_FORWARDE‌​D_FOR" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 64
+[20-Sep-2023 08:22:37 America/Mexico_City] PHP Warning:  Undefined array key "mientras" in /home/tooltec/public_html/Admin/_login/validate.php on line 2
+[20-Sep-2023 08:22:37 America/Mexico_City] PHP Warning:  Undefined variable $nomina in /home/tooltec/public_html/Admin/_login/validate.php on line 8
+[20-Sep-2023 08:22:37 America/Mexico_City] PHP Deprecated:  str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/tooltec/public_html/Admin/control/funciones.php on line 954
+[20-Sep-2023 08:22:37 America/Mexico_City] PHP Warning:  Undefined variable $email in /home/tooltec/public_html/Admin/_login/validate.php on line 44
+[20-Sep-2023 08:22:37 America/Mexico_City] PHP Warning:  Undefined variable $password in /home/tooltec/public_html/Admin/_login/validate.php on line 117
+[20-Sep-2023 12:03:42 America/Mexico_City] PHP Warning:  Undefined variable $debug in /home/tooltec/public_html/Admin/sesion/arriba.php on line 50
+[20-Sep-2023 12:03:42 America/Mexico_City] PHP Warning:  Undefined array key "debug" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 51
+[20-Sep-2023 12:03:42 America/Mexico_City] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/tooltec/public_html/Admin/control/funciones.php on line 973
+[20-Sep-2023 12:03:42 America/Mexico_City] PHP Warning:  Undefined array key "HTTP_CLIENT_IP" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 64
+[20-Sep-2023 12:03:42 America/Mexico_City] PHP Warning:  Undefined array key "HTTP_X_FORWARDE‌​D_FOR" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 64
+[20-Sep-2023 12:03:42 America/Mexico_City] PHP Warning:  Undefined array key "mientras" in /home/tooltec/public_html/Admin/_login/validate.php on line 2
+[20-Sep-2023 12:03:42 America/Mexico_City] PHP Warning:  Undefined variable $nomina in /home/tooltec/public_html/Admin/_login/validate.php on line 8
+[20-Sep-2023 12:03:42 America/Mexico_City] PHP Deprecated:  str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/tooltec/public_html/Admin/control/funciones.php on line 954
+[20-Sep-2023 12:03:42 America/Mexico_City] PHP Warning:  Undefined variable $email in /home/tooltec/public_html/Admin/_login/validate.php on line 44
+[20-Sep-2023 12:03:42 America/Mexico_City] PHP Warning:  Undefined variable $password in /home/tooltec/public_html/Admin/_login/validate.php on line 117
+[20-Sep-2023 15:44:22 America/Mexico_City] PHP Warning:  Undefined variable $debug in /home/tooltec/public_html/Admin/sesion/arriba.php on line 50
+[20-Sep-2023 15:44:22 America/Mexico_City] PHP Warning:  Undefined array key "debug" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 51
+[20-Sep-2023 15:44:22 America/Mexico_City] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/tooltec/public_html/Admin/control/funciones.php on line 973
+[20-Sep-2023 15:44:22 America/Mexico_City] PHP Warning:  Undefined array key "HTTP_CLIENT_IP" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 64
+[20-Sep-2023 15:44:22 America/Mexico_City] PHP Warning:  Undefined array key "HTTP_X_FORWARDE‌​D_FOR" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 64
+[20-Sep-2023 15:44:22 America/Mexico_City] PHP Warning:  Undefined array key "mientras" in /home/tooltec/public_html/Admin/_login/validate.php on line 2
+[20-Sep-2023 15:44:22 America/Mexico_City] PHP Warning:  Undefined variable $nomina in /home/tooltec/public_html/Admin/_login/validate.php on line 8
+[20-Sep-2023 15:44:22 America/Mexico_City] PHP Deprecated:  str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/tooltec/public_html/Admin/control/funciones.php on line 954
+[20-Sep-2023 15:44:22 America/Mexico_City] PHP Warning:  Undefined variable $email in /home/tooltec/public_html/Admin/_login/validate.php on line 44
+[20-Sep-2023 15:44:22 America/Mexico_City] PHP Warning:  Undefined variable $password in /home/tooltec/public_html/Admin/_login/validate.php on line 117
+[20-Sep-2023 19:24:30 America/Mexico_City] PHP Warning:  Undefined variable $debug in /home/tooltec/public_html/Admin/sesion/arriba.php on line 50
+[20-Sep-2023 19:24:30 America/Mexico_City] PHP Warning:  Undefined array key "debug" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 51
+[20-Sep-2023 19:24:30 America/Mexico_City] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/tooltec/public_html/Admin/control/funciones.php on line 973
+[20-Sep-2023 19:24:30 America/Mexico_City] PHP Warning:  Undefined array key "HTTP_CLIENT_IP" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 64
+[20-Sep-2023 19:24:30 America/Mexico_City] PHP Warning:  Undefined array key "HTTP_X_FORWARDE‌​D_FOR" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 64
+[20-Sep-2023 19:24:30 America/Mexico_City] PHP Warning:  Undefined array key "mientras" in /home/tooltec/public_html/Admin/_login/validate.php on line 2
+[20-Sep-2023 19:24:30 America/Mexico_City] PHP Warning:  Undefined variable $nomina in /home/tooltec/public_html/Admin/_login/validate.php on line 8
+[20-Sep-2023 19:24:30 America/Mexico_City] PHP Deprecated:  str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/tooltec/public_html/Admin/control/funciones.php on line 954
+[20-Sep-2023 19:24:30 America/Mexico_City] PHP Warning:  Undefined variable $email in /home/tooltec/public_html/Admin/_login/validate.php on line 44
+[20-Sep-2023 19:24:30 America/Mexico_City] PHP Warning:  Undefined variable $password in /home/tooltec/public_html/Admin/_login/validate.php on line 117
+[20-Sep-2023 23:05:06 America/Mexico_City] PHP Warning:  Undefined variable $debug in /home/tooltec/public_html/Admin/sesion/arriba.php on line 50
+[20-Sep-2023 23:05:06 America/Mexico_City] PHP Warning:  Undefined array key "debug" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 51
+[20-Sep-2023 23:05:06 America/Mexico_City] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/tooltec/public_html/Admin/control/funciones.php on line 973
+[20-Sep-2023 23:05:06 America/Mexico_City] PHP Warning:  Undefined array key "HTTP_CLIENT_IP" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 64
+[20-Sep-2023 23:05:06 America/Mexico_City] PHP Warning:  Undefined array key "HTTP_X_FORWARDE‌​D_FOR" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 64
+[20-Sep-2023 23:05:06 America/Mexico_City] PHP Warning:  Undefined array key "mientras" in /home/tooltec/public_html/Admin/_login/validate.php on line 2
+[20-Sep-2023 23:05:06 America/Mexico_City] PHP Warning:  Undefined variable $nomina in /home/tooltec/public_html/Admin/_login/validate.php on line 8
+[20-Sep-2023 23:05:06 America/Mexico_City] PHP Deprecated:  str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/tooltec/public_html/Admin/control/funciones.php on line 954
+[20-Sep-2023 23:05:07 America/Mexico_City] PHP Warning:  Undefined variable $email in /home/tooltec/public_html/Admin/_login/validate.php on line 44
+[20-Sep-2023 23:05:07 America/Mexico_City] PHP Warning:  Undefined variable $password in /home/tooltec/public_html/Admin/_login/validate.php on line 117
+[21-Sep-2023 02:45:29 America/Mexico_City] PHP Warning:  Undefined variable $debug in /home/tooltec/public_html/Admin/sesion/arriba.php on line 50
+[21-Sep-2023 02:45:29 America/Mexico_City] PHP Warning:  Undefined array key "debug" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 51
+[21-Sep-2023 02:45:29 America/Mexico_City] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/tooltec/public_html/Admin/control/funciones.php on line 973
+[21-Sep-2023 02:45:29 America/Mexico_City] PHP Warning:  Undefined array key "HTTP_CLIENT_IP" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 64
+[21-Sep-2023 02:45:29 America/Mexico_City] PHP Warning:  Undefined array key "HTTP_X_FORWARDE‌​D_FOR" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 64
+[21-Sep-2023 02:45:29 America/Mexico_City] PHP Warning:  Undefined array key "mientras" in /home/tooltec/public_html/Admin/_login/validate.php on line 2
+[21-Sep-2023 02:45:29 America/Mexico_City] PHP Warning:  Undefined variable $nomina in /home/tooltec/public_html/Admin/_login/validate.php on line 8
+[21-Sep-2023 02:45:29 America/Mexico_City] PHP Deprecated:  str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/tooltec/public_html/Admin/control/funciones.php on line 954
+[21-Sep-2023 02:45:29 America/Mexico_City] PHP Warning:  Undefined variable $email in /home/tooltec/public_html/Admin/_login/validate.php on line 44
+[21-Sep-2023 02:45:29 America/Mexico_City] PHP Warning:  Undefined variable $password in /home/tooltec/public_html/Admin/_login/validate.php on line 117
+[21-Sep-2023 06:26:00 America/Mexico_City] PHP Warning:  Undefined variable $debug in /home/tooltec/public_html/Admin/sesion/arriba.php on line 50
+[21-Sep-2023 06:26:00 America/Mexico_City] PHP Warning:  Undefined array key "debug" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 51
+[21-Sep-2023 06:26:00 America/Mexico_City] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/tooltec/public_html/Admin/control/funciones.php on line 973
+[21-Sep-2023 06:26:00 America/Mexico_City] PHP Warning:  Undefined array key "HTTP_CLIENT_IP" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 64
+[21-Sep-2023 06:26:00 America/Mexico_City] PHP Warning:  Undefined array key "HTTP_X_FORWARDE‌​D_FOR" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 64
+[21-Sep-2023 06:26:00 America/Mexico_City] PHP Warning:  Undefined array key "mientras" in /home/tooltec/public_html/Admin/_login/validate.php on line 2
+[21-Sep-2023 06:26:00 America/Mexico_City] PHP Warning:  Undefined variable $nomina in /home/tooltec/public_html/Admin/_login/validate.php on line 8
+[21-Sep-2023 06:26:00 America/Mexico_City] PHP Deprecated:  str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/tooltec/public_html/Admin/control/funciones.php on line 954
+[21-Sep-2023 06:26:00 America/Mexico_City] PHP Warning:  Undefined variable $email in /home/tooltec/public_html/Admin/_login/validate.php on line 44
+[21-Sep-2023 06:26:00 America/Mexico_City] PHP Warning:  Undefined variable $password in /home/tooltec/public_html/Admin/_login/validate.php on line 117
+[21-Sep-2023 09:39:52 America/Mexico_City] PHP Warning:  Undefined variable $debug in /home/tooltec/public_html/Admin/sesion/arriba.php on line 50
+[21-Sep-2023 09:39:52 America/Mexico_City] PHP Warning:  Undefined array key "debug" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 51
+[21-Sep-2023 09:39:52 America/Mexico_City] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/tooltec/public_html/Admin/control/funciones.php on line 973
+[21-Sep-2023 09:39:52 America/Mexico_City] PHP Warning:  Undefined array key "HTTP_CLIENT_IP" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 64
+[21-Sep-2023 09:39:52 America/Mexico_City] PHP Warning:  Undefined array key "HTTP_X_FORWARDE‌​D_FOR" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 64
+[21-Sep-2023 09:39:52 America/Mexico_City] PHP Warning:  Undefined array key "mientras" in /home/tooltec/public_html/Admin/_login/validate.php on line 2
+[21-Sep-2023 09:39:52 America/Mexico_City] PHP Warning:  Undefined variable $nomina in /home/tooltec/public_html/Admin/_login/validate.php on line 8
+[21-Sep-2023 09:39:52 America/Mexico_City] PHP Deprecated:  str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/tooltec/public_html/Admin/control/funciones.php on line 954
+[21-Sep-2023 09:39:52 America/Mexico_City] PHP Warning:  Undefined variable $email in /home/tooltec/public_html/Admin/_login/validate.php on line 44
+[21-Sep-2023 09:39:52 America/Mexico_City] PHP Warning:  Undefined array key "validado" in /home/tooltec/public_html/Admin/_login/validate.php on line 58
+[21-Sep-2023 09:40:00 America/Mexico_City] PHP Warning:  Undefined variable $debug in /home/tooltec/public_html/Admin/sesion/arriba.php on line 50
+[21-Sep-2023 09:40:00 America/Mexico_City] PHP Warning:  Undefined array key "debug" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 51
+[21-Sep-2023 09:40:00 America/Mexico_City] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/tooltec/public_html/Admin/control/funciones.php on line 973
+[21-Sep-2023 09:40:00 America/Mexico_City] PHP Warning:  Undefined array key "HTTP_CLIENT_IP" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 64
+[21-Sep-2023 09:40:00 America/Mexico_City] PHP Warning:  Undefined array key "HTTP_X_FORWARDE‌​D_FOR" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 64
+[21-Sep-2023 09:40:00 America/Mexico_City] PHP Warning:  Undefined variable $nomina in /home/tooltec/public_html/Admin/_login/validate.php on line 8
+[21-Sep-2023 09:40:00 America/Mexico_City] PHP Deprecated:  str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/tooltec/public_html/Admin/control/funciones.php on line 954
+[21-Sep-2023 09:40:00 America/Mexico_City] PHP Warning:  Undefined variable $email in /home/tooltec/public_html/Admin/_login/validate.php on line 44
+[21-Sep-2023 09:40:00 America/Mexico_City] PHP Warning:  Undefined array key "validado" in /home/tooltec/public_html/Admin/_login/validate.php on line 58
+[21-Sep-2023 10:06:55 America/Mexico_City] PHP Warning:  Undefined variable $debug in /home/tooltec/public_html/Admin/sesion/arriba.php on line 50
+[21-Sep-2023 10:06:55 America/Mexico_City] PHP Warning:  Undefined array key "debug" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 51
+[21-Sep-2023 10:06:55 America/Mexico_City] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/tooltec/public_html/Admin/control/funciones.php on line 973
+[21-Sep-2023 10:06:55 America/Mexico_City] PHP Warning:  Undefined array key "HTTP_CLIENT_IP" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 64
+[21-Sep-2023 10:06:55 America/Mexico_City] PHP Warning:  Undefined array key "HTTP_X_FORWARDE‌​D_FOR" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 64
+[21-Sep-2023 10:06:55 America/Mexico_City] PHP Warning:  Undefined array key "mientras" in /home/tooltec/public_html/Admin/_login/validate.php on line 2
+[21-Sep-2023 10:06:55 America/Mexico_City] PHP Warning:  Undefined variable $nomina in /home/tooltec/public_html/Admin/_login/validate.php on line 8
+[21-Sep-2023 10:06:55 America/Mexico_City] PHP Deprecated:  str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/tooltec/public_html/Admin/control/funciones.php on line 954
+[21-Sep-2023 10:06:55 America/Mexico_City] PHP Warning:  Undefined variable $email in /home/tooltec/public_html/Admin/_login/validate.php on line 44
+[21-Sep-2023 10:06:55 America/Mexico_City] PHP Warning:  Undefined variable $password in /home/tooltec/public_html/Admin/_login/validate.php on line 117
+[21-Sep-2023 13:47:37 America/Mexico_City] PHP Warning:  Undefined variable $debug in /home/tooltec/public_html/Admin/sesion/arriba.php on line 50
+[21-Sep-2023 13:47:37 America/Mexico_City] PHP Warning:  Undefined array key "debug" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 51
+[21-Sep-2023 13:47:37 America/Mexico_City] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/tooltec/public_html/Admin/control/funciones.php on line 973
+[21-Sep-2023 13:47:37 America/Mexico_City] PHP Warning:  Undefined array key "HTTP_CLIENT_IP" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 64
+[21-Sep-2023 13:47:37 America/Mexico_City] PHP Warning:  Undefined array key "HTTP_X_FORWARDE‌​D_FOR" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 64
+[21-Sep-2023 13:47:37 America/Mexico_City] PHP Warning:  Undefined array key "mientras" in /home/tooltec/public_html/Admin/_login/validate.php on line 2
+[21-Sep-2023 13:47:37 America/Mexico_City] PHP Warning:  Undefined variable $nomina in /home/tooltec/public_html/Admin/_login/validate.php on line 8
+[21-Sep-2023 13:47:37 America/Mexico_City] PHP Deprecated:  str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/tooltec/public_html/Admin/control/funciones.php on line 954
+[21-Sep-2023 13:47:37 America/Mexico_City] PHP Warning:  Undefined variable $email in /home/tooltec/public_html/Admin/_login/validate.php on line 44
+[21-Sep-2023 13:47:37 America/Mexico_City] PHP Warning:  Undefined variable $password in /home/tooltec/public_html/Admin/_login/validate.php on line 117
+[21-Sep-2023 17:28:49 America/Mexico_City] PHP Warning:  Undefined variable $debug in /home/tooltec/public_html/Admin/sesion/arriba.php on line 50
+[21-Sep-2023 17:28:49 America/Mexico_City] PHP Warning:  Undefined array key "debug" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 51
+[21-Sep-2023 17:28:49 America/Mexico_City] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/tooltec/public_html/Admin/control/funciones.php on line 973
+[21-Sep-2023 17:28:49 America/Mexico_City] PHP Warning:  Undefined array key "HTTP_CLIENT_IP" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 64
+[21-Sep-2023 17:28:49 America/Mexico_City] PHP Warning:  Undefined array key "HTTP_X_FORWARDE‌​D_FOR" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 64
+[21-Sep-2023 17:28:49 America/Mexico_City] PHP Warning:  Undefined array key "mientras" in /home/tooltec/public_html/Admin/_login/validate.php on line 2
+[21-Sep-2023 17:28:49 America/Mexico_City] PHP Warning:  Undefined variable $nomina in /home/tooltec/public_html/Admin/_login/validate.php on line 8
+[21-Sep-2023 17:28:49 America/Mexico_City] PHP Deprecated:  str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/tooltec/public_html/Admin/control/funciones.php on line 954
+[21-Sep-2023 17:28:49 America/Mexico_City] PHP Warning:  Undefined variable $email in /home/tooltec/public_html/Admin/_login/validate.php on line 44
+[21-Sep-2023 17:28:49 America/Mexico_City] PHP Warning:  Undefined variable $password in /home/tooltec/public_html/Admin/_login/validate.php on line 117
+[30-Sep-2023 03:51:52 America/Mexico_City] PHP Warning:  Undefined variable $debug in /home/tooltec/public_html/Admin/sesion/arriba.php on line 50
+[30-Sep-2023 03:51:52 America/Mexico_City] PHP Warning:  Undefined array key "debug" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 51
+[30-Sep-2023 03:51:52 America/Mexico_City] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/tooltec/public_html/Admin/control/funciones.php on line 973
+[30-Sep-2023 03:51:52 America/Mexico_City] PHP Warning:  Undefined array key "HTTP_CLIENT_IP" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 64
+[30-Sep-2023 03:51:52 America/Mexico_City] PHP Warning:  Undefined array key "HTTP_X_FORWARDE‌​D_FOR" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 64
+[30-Sep-2023 03:51:52 America/Mexico_City] PHP Warning:  Undefined array key "mientras" in /home/tooltec/public_html/Admin/_login/validate.php on line 2
+[30-Sep-2023 03:51:52 America/Mexico_City] PHP Warning:  Undefined variable $nomina in /home/tooltec/public_html/Admin/_login/validate.php on line 8
+[30-Sep-2023 03:51:52 America/Mexico_City] PHP Deprecated:  str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/tooltec/public_html/Admin/control/funciones.php on line 954
+[30-Sep-2023 03:51:52 America/Mexico_City] PHP Warning:  Undefined variable $email in /home/tooltec/public_html/Admin/_login/validate.php on line 44
+[30-Sep-2023 03:51:52 America/Mexico_City] PHP Warning:  Undefined variable $password in /home/tooltec/public_html/Admin/_login/validate.php on line 117
+[03-Oct-2023 18:39:58 America/Mexico_City] PHP Warning:  Undefined variable $debug in /home/tooltec/public_html/Admin/sesion/arriba.php on line 50
+[03-Oct-2023 18:39:58 America/Mexico_City] PHP Warning:  Undefined array key "debug" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 51
+[03-Oct-2023 18:39:58 America/Mexico_City] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/tooltec/public_html/Admin/control/funciones.php on line 973
+[03-Oct-2023 18:39:58 America/Mexico_City] PHP Warning:  Undefined array key "HTTP_CLIENT_IP" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 64
+[03-Oct-2023 18:39:58 America/Mexico_City] PHP Warning:  Undefined array key "HTTP_X_FORWARDE‌​D_FOR" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 64
+[03-Oct-2023 18:39:58 America/Mexico_City] PHP Warning:  Undefined array key "mientras" in /home/tooltec/public_html/Admin/_login/validate.php on line 2
+[03-Oct-2023 18:39:58 America/Mexico_City] PHP Warning:  Undefined variable $nomina in /home/tooltec/public_html/Admin/_login/validate.php on line 8
+[03-Oct-2023 18:39:58 America/Mexico_City] PHP Deprecated:  str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/tooltec/public_html/Admin/control/funciones.php on line 954
+[03-Oct-2023 18:39:58 America/Mexico_City] PHP Warning:  Undefined variable $email in /home/tooltec/public_html/Admin/_login/validate.php on line 44
+[03-Oct-2023 18:39:58 America/Mexico_City] PHP Warning:  Undefined variable $password in /home/tooltec/public_html/Admin/_login/validate.php on line 117
+[04-Oct-2023 01:09:05 America/Mexico_City] PHP Warning:  Undefined variable $debug in /home/tooltec/public_html/Admin/sesion/arriba.php on line 50
+[04-Oct-2023 01:09:05 America/Mexico_City] PHP Warning:  Undefined array key "debug" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 51
+[04-Oct-2023 01:09:05 America/Mexico_City] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/tooltec/public_html/Admin/control/funciones.php on line 973
+[04-Oct-2023 01:09:05 America/Mexico_City] PHP Warning:  Undefined array key "HTTP_CLIENT_IP" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 64
+[04-Oct-2023 01:09:05 America/Mexico_City] PHP Warning:  Undefined array key "HTTP_X_FORWARDE‌​D_FOR" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 64
+[04-Oct-2023 01:09:05 America/Mexico_City] PHP Warning:  Undefined array key "mientras" in /home/tooltec/public_html/Admin/_login/validate.php on line 2
+[04-Oct-2023 01:09:05 America/Mexico_City] PHP Warning:  Undefined variable $nomina in /home/tooltec/public_html/Admin/_login/validate.php on line 8
+[04-Oct-2023 01:09:05 America/Mexico_City] PHP Deprecated:  str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/tooltec/public_html/Admin/control/funciones.php on line 954
+[04-Oct-2023 01:09:05 America/Mexico_City] PHP Warning:  Undefined variable $email in /home/tooltec/public_html/Admin/_login/validate.php on line 44
+[04-Oct-2023 01:09:05 America/Mexico_City] PHP Warning:  Undefined variable $password in /home/tooltec/public_html/Admin/_login/validate.php on line 117
+[04-Oct-2023 10:49:30 America/Mexico_City] PHP Warning:  Undefined variable $debug in /home/tooltec/public_html/Admin/sesion/arriba.php on line 50
+[04-Oct-2023 10:49:30 America/Mexico_City] PHP Warning:  Undefined array key "debug" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 51
+[04-Oct-2023 10:49:30 America/Mexico_City] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/tooltec/public_html/Admin/control/funciones.php on line 973
+[04-Oct-2023 10:49:30 America/Mexico_City] PHP Warning:  Undefined array key "HTTP_CLIENT_IP" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 64
+[04-Oct-2023 10:49:30 America/Mexico_City] PHP Warning:  Undefined array key "HTTP_X_FORWARDE‌​D_FOR" in /home/tooltec/public_html/Admin/sesion/arriba.php on line 64
+[04-Oct-2023 10:49:30 America/Mexico_City] PHP Warning:  Undefined array key "mientras" in /home/tooltec/public_html/Admin/_login/validate.php on line 2
+[04-Oct-2023 10:49:30 America/Mexico_City] PHP Warning:  Undefined variable $nomina in /home/tooltec/public_html/Admin/_login/validate.php on line 8
+[04-Oct-2023 10:49:30 America/Mexico_City] PHP Deprecated:  str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/tooltec/public_html/Admin/control/funciones.php on line 954
+[04-Oct-2023 10:49:30 America/Mexico_City] PHP Warning:  Undefined variable $email in /home/tooltec/public_html/Admin/_login/validate.php on line 44
+[04-Oct-2023 10:49:30 America/Mexico_City] PHP Warning:  Undefined variable $password in /home/tooltec/public_html/Admin/_login/validate.php on line 117

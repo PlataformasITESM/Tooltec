@@ -1,0 +1,67 @@
+.categorias{ float: left;  padding: 10px; border-radius:15px ; border:1px solid #EBEBEB; color:#000;     }
+.categorias a{  border:none}
+.categorias .botonAmarillo { position:absolute !important ; bottom:0}
+
+.categoriasCatImgT{ border-bottom:1px solid #FFF; min-height:60px;   float:left; font-size:12px; text-transform:uppercase; margin:5px;}
+.categoriasBorde { height:100%; padding-bottom:70%; border-radius:15px; overflow:hidden;}
+.categoriasTitulo { float:left;  font-size:17px; line-height:120%; transition:.1s linear; font-weight:bold;      width: 100%;    }
+
+.categoriasImg {background-size: cover; background-repeat: no-repeat; background-position: center center; width:100%; height:100%; position:absolute; transition: all 0.2s linear; }
+
+
+.categoriasExpertoImg { width:200px; transition:.1s linear; margin: auto; height:200px; border-radius:500px; background-size: cover; background-repeat: no-repeat; background-position: center center; }
+.categoriasExpertoImg20 { width:200px; transition:.1s linear; margin: auto; height:200px; border-radius:15px; background-size: cover; background-repeat: no-repeat; background-position: center center; }
+
+
+
+.categoriasAbstract { line-height:110%; font-size:12px;   }
+.categorias:hover { box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);}
+
+
+.categorias:hover .categoriasImg {opacity:1;   transform: scale(1.1,1.1); }
+.categorias:hover .categoriasTitulo{ color:#E1396F}
+
+
+.categorias:hover .categoriasExpertoImg { transform: scale(1.02,1.02);}
+
+.expertoIzq { float:left; width:180px; text-align:center;}
+.expertoDerecha   { width:calc(100% - 180px); float: left;}
+.expertoIzqDiv { display:inline-block;}
+
+.herramientasBanner { width:100%; height:100%; top:0; opacity:.4; background-attachment:fixed; background-size: cover; background-repeat: no-repeat; background-position: center center; position:absolute; z-index:1; }
+.herramientasVota { position:absolute; bottom:0; padding:10px;width:100%; text-align:center; z-index:9; color:white;cursor:default; user-select: none;}
+
+#herramientaNombre { z-index:9; position:absolute;}
+
+#herramientasBannerCont {background-color:#000; padding:18% 0 18% 0;}
+@media screen and (max-width: 800px) {
+    #herramientasBannerCont { padding:100px 0 100px 0; }
+    #herramientaNombre { z-index:9; position:relative; float:left;}
+}
+
+.corazon{ color:#FFF; transition:.1s linear;}
+.corazon:hover { color:#e1396f;}
+
+
+.herraDown { position: relative; padding-left: 35px; text-align: left; margin-right:20px;}
+.herraDown:after { content:"file_download"; position:absolute;    font-family: 'Material Icons'; left:5px; top:50%; transform: translateY(-50%);   font-size: 20px }
+.herraDown:hover { color:#e1396f;}
+
+.herraNivel { position: relative; padding-left: 35px; text-align: left;}
+.herraNivel:after { content:"speed"; position:absolute;    font-family: 'Material Icons'; left:5px; top:50%; transform: translateY(-50%);  color:#333; font-size: 20px }
+
+.herraTiempo { position: relative; padding-left: 35px; text-align: left;}
+.herraTiempo:after { content:"schedule"; position:absolute;    font-family: 'Material Icons'; left:5px; top:50%; transform: translateY(-50%);  color:#333; font-size: 20px }
+
+.herraOtras { position: relative; padding-left: 35px; text-align: left;}
+.herraOtras:after { content:"more_horiz"; position:absolute;    font-family: 'Material Icons'; left:5px; top:50%; transform: translateY(-50%);  color:#333; font-size: 20px }
+ 
+ .herramientasBack { position:absolute; top:20px; left:0; background-color:#FFF; z-index:2; padding:5px; opacity:.8;
+ }
+ .herramientasBack:hover { opacity:1}
+ 
+ .comentarioB { margin-bottom:30px;}
+ .comentarioB .avatar50{ position:absolute; left:0;}
+ .comentarioB .comentarioT { padding-left:60px;}
+ 
+ #filtrones { position:absolute; z-index:99; background-color:#FFF; right:0; top:50px; display:none; width:250px; padding:20px; box-shadow:-2px 2px 10px rgba(0,0,0,.5)}

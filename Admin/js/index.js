@@ -1,0 +1,1 @@
+$(function(){jQuery.ajaxSetup({beforeSend:function(){$(".load, #botons").show(),$("#aqui,#forma").hide(),$(".botonEnviar").hide()},complete:function(){$(".load, #botons").hide(),$("#aqui").show()},success:function(){}});var a={target:"#aqui",success:function(){$("#forma").clearForm()}};$("#forma").ajaxForm(a)});

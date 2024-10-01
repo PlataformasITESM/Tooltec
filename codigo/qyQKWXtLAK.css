@@ -1,0 +1,102 @@
+.lh100 {line-height: 100%;}
+.lineaInferior {  height: 2px;
+  background-color: white;}
+  
+.textoRegulart {font-family: Poppins,sans-serif;    font-weight: 400;    font-size: 14px;}
+.textoMedianot {font-family: Poppins,sans-serif;    font-weight: 400;    font-size: 17px;}
+
+/*colores*/
+.fondoBlanco { background-color:#FFF;}
+.negro{color:#000;}
+.blanco{color:#fff;}
+.amarillo {color:#FFA401;}
+.gris {color:#999;}
+.azul {color:#002554;}
+.rosa {color:#E1396F;}
+.bold { font-weight:bold;}
+.boldNo { font-weight:normal;}
+
+.bordeSup { border-top: 1px solid #EBEBEB;}
+
+.footerUbicacion { position: relative; padding-left: 45px; text-align: left;}
+.footerUbicacion:after { content:"location_on"; position:absolute;    font-family: 'Material Icons'; left:5px; top:50%; transform: translateY(-50%);  color:#333; font-size: 30px }
+ 
+/*lineas*/
+
+/* avata*/
+.avatar30{ width:30px;  border:1px solid #EBEbBE; height:30px; border-radius:500px; overflow:hidden; float:left; background-position:center center; background-repeat:no-repeat; background-size:cover;}
+.avatar150{ width:150px; border:1px solid #EBEbBE; height:150px; background-position:center center; background-repeat:no-repeat; background-size:cover; border-radius:500px; overflow:hidden; float:left;}
+.avatarT30{  float:left;    height:30px; line-height:30px; padding-left:10px;}
+.avatarDiv { margin-right:20px;}
+.avatarDiv:hover .avatarT30 { color:#E1396F}
+
+.avatar50{ width:50px; height:50px; border-radius:500px; overflow:hidden; float:left; background-position:center center; background-repeat:no-repeat; background-size:cover;}
+/* avatar*/
+
+.redes { float:left; background-color:#E1396F; position:relative;   border-radius:100px;   width:40px;  height:40px; margin-right:10px;}
+
+
+/* portada*/
+.comoFunciona { background-color:#FFF; border-radius:15px; padding:20px; box-shadow:0 0 10px rgba(0,0,0,.2); transition:.2s linear;}
+.comoFunciona:hover {box-shadow:0 0 10px rgba(0,0,0,.6);}
+/* portada */
+
+
+.lineaRosa { float:left; width:100%; height:1px; border-bottom: 1px solid #e1396f; margin:10px 0 10px 0;}
+
+.linealAzul {
+border-right: 5px #FFA401;
+}
+
+/*botones*/
+.botonAzul {
+  border-radius: 25px;
+  background: #002554;
+  padding: 10px;
+}
+
+.botonAmarillo {
+  border-radius: 25px;
+  background: #FFA401;
+  padding: 10px;
+}
+
+
+/* banners*/
+.paddingBanner { padding:0 20% 0 20%;}
+@media screen and (max-width: 600px) {
+.paddingBanner { padding:0 10px 0 10px;}
+}
+/* */
+
+.barraTitulo {  height: 3px;
+    background: #fff;
+    margin: 5px 0!important;
+    border-left: 10px solid #373c8e;
+    border-top: 0;}
+    
+.barraTitulogris {  height: 3px;
+    background: #eaeaea;
+    margin: 5px 0!important;
+    border-left: 10px solid #373c8e;
+    border-top: 0;}
+@media screen and (max-width: 1000px) {
+	.imagenFooter {size:50%;}
+ 
+}
+
+.tablaRecursos table th {
+  color:#333; font-size:18px; font-family: 'Marcellus SC', serif;  
+}
+
+.tablaRecursos table tr:nth-child(odd) {
+  background-color: #f7f7f7;
+}
+
+.tablaRecursos table tr:hover {
+      background-color: #f2f2f2;
+}
+
+.botonContact {  border-radius: 5px;
+  border: 2px solid #000;}
+  
