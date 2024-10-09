@@ -264,13 +264,13 @@ $res6->data_seek(0);
 		$video=explode('/',html_entity_decode  ($video));
 		$video=end($video);
 		
-		$videoF='<iframe src="https://player.vimeo.com/video/'.$video.'" width="100%" height="'.$alturaVideo.'" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>';
+		$videoF='<iframe sandbox="allow-scripts allow-same-origin allow-forms" src="https://player.vimeo.com/video/'.$video.'" width="100%" height="'.$alturaVideo.'" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>';
 	}
 	//es youtube
 	if (strpos($video,'youtube') !== false) {
 	$video=explode('=',html_entity_decode  ($video));
 	$video=end($video);
-	$videoF='<iframe width="100%" height="'.$alturaVideo.'" src="https://www.youtube.com/embed/'.$video.'" frameborder="0" allowfullscreen></iframe>';
+	$videoF='<iframe sandbox="allow-scripts allow-same-origin allow-forms" width="100%" height="'.$alturaVideo.'" src="https://www.youtube.com/embed/'.$video.'" frameborder="0" allowfullscreen></iframe>';
 	}
  ?>
  <?=$videoF?>
