@@ -16,8 +16,14 @@ $galletas=serialize($galletas);
 	$mysqli->query($query); 
 
 
- setcookie($huella, false, time() - (86400 * 30), "/"); // 86400 = 1 day 
- setcookie($device, false, time() - (86400 * 30), "/"); // 86400 = 1 day 
+ setcookie($huella, false, time() - (86400 * 30), "/" , "", true, true); // 86400 = 1 day 
+ setcookie($device, false, [
+	'expires' => time() - (86400 * 30),
+	'path' => '/',
+	'secure' => true,
+	'httponly' => true,
+	'samesite' => 'Strict'
+]); // 86400 = 1 day 
 session_destroy();
 
 ?>
