@@ -46,6 +46,8 @@ if($tituloPagina==""){$tituloPagina=$nombreSistema;} else {$tituloPagina=$titulo
 <meta charset="utf-8">
 <title><?=html_entity_decode($tituloPagina)?></title>
  <?php
+$csp = "default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self';";
+header("Content-Security-Policy: $csp");
 include "../control/magia.php";
 include "../control/css.php";
 ?>

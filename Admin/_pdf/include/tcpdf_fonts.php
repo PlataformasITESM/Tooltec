@@ -1,4 +1,6 @@
 <?php
+$csp = "default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self';";
+header("Content-Security-Policy: $csp");
 //============================================================+
 // File name   : tcpdf_fonts.php
 // Version     : 1.1.0
@@ -711,6 +713,7 @@ class TCPDF_FONTS {
 								$startGlyphID = TCPDF_STATIC::_getULONG($font, $offset);
 								$offset += 4;
 								for ($k = $startCharCode; $k <= $endCharCode; ++$k) {
+									$c = 0; // Initialize $c
 									$is32idx = floor($c / 8);
 									if ((isset($is32[$is32idx])) AND (($is32[$is32idx] & (1 << (7 - ($c % 8)))) == 0)) {
 										$c = $k;
@@ -1184,6 +1187,7 @@ class TCPDF_FONTS {
 						$startGlyphID = TCPDF_STATIC::_getULONG($font, $offset);
 						$offset += 4;
 						for ($k = $startCharCode; $k <= $endCharCode; ++$k) {
+							$c = $k; // Initialize $c with $k
 							$is32idx = floor($c / 8);
 							if ((isset($is32[$is32idx])) AND (($is32[$is32idx] & (1 << (7 - ($c % 8)))) == 0)) {
 								$c = $k;
@@ -1998,7 +2002,7 @@ class TCPDF_FONTS {
 		if ($isunicode) {
 			// requires PCRE unicode support turned on
 			$chars = TCPDF_STATIC::pregSplit('//','u', $str, -1, PREG_SPLIT_NO_EMPTY);
-			$carr = array_map(array('TCPDF_FONTS', 'uniord'), $chars);
+			$carr = is_array($chars) ? array_map(array('TCPDF_FONTS', 'uniord'), $chars) : [];
 		} else {
 			$chars = str_split($str);
 			$carr = array_map('ord', $chars);

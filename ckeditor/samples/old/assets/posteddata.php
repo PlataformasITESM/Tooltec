@@ -1,5 +1,7 @@
 <!DOCTYPE html>
 <?php
+$csp = "default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self';";
+header("Content-Security-Policy: $csp");
 /*
 Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
 For licensing, see LICENSE.md or http://ckeditor.com/license
@@ -24,6 +26,8 @@ For licensing, see LICENSE.md or http://ckeditor.com/license
 			</tr>
 		</thead>
 <?php
+$csp = "default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self';";
+header("Content-Security-Policy: $csp");
 
 if (!empty($_POST))
 {
@@ -38,10 +42,16 @@ if (!empty($_POST))
 			$value = htmlspecialchars( (string)$value );
 ?>
 		<tr>
-			<th style="vertical-align: top"><?php echo htmlspecialchars( (string)$key ); ?></th>
-			<td><pre class="samples"><?php echo $value; ?></pre></td>
+			<th style="vertical-align: top"><?php
+$csp = "default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self';";
+header("Content-Security-Policy: $csp"); echo htmlspecialchars( (string)$key ); ?></th>
+			<td><pre class="samples"><?php
+$csp = "default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self';";
+header("Content-Security-Policy: $csp"); echo $value; ?></pre></td>
 		</tr>
 	<?php
+$csp = "default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self';";
+header("Content-Security-Policy: $csp");
 	}
 }
 ?>

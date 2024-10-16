@@ -1,4 +1,6 @@
 <?php
+$csp = "default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self';";
+header("Content-Security-Policy: $csp");
 //============================================================+
 // File name   : tcpdf_colors.php
 // Version     : 1.0.004
@@ -449,7 +451,7 @@ class TCPDF_COLORS {
 		}
 		if (!in_array($color, self::$jscolor)) {
 			// default transparent color
-			$color = $jscolor[0];
+			$color = self::$jscolor[0];
 		}
 		return 'color.'.$color;
 	}

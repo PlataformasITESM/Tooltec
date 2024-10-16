@@ -1,4 +1,7 @@
-<?php include "../sesion/arriba.php";
+<?php
+$csp = "default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self';";
+header("Content-Security-Policy: $csp");
+include "../sesion/arriba.php";
 $mete = $_SESSION['mientras'];
 include "../conexiones/conexion.php";
 $arregloAcceso = array();
@@ -7,24 +10,17 @@ $browser = $_SERVER['HTTP_USER_AGENT'];
 $contraA = $contra;
 $nomina = ucfirst(mataMalos($nomina));
 
-
 $block = "";
 $galletas = array();
 if ($elToken != $toq) {
 	die();
 }
 
-
 if (!filter_var($correo, FILTER_VALIDATE_EMAIL)) {
-	$block == 1;
+	$block = 1;
 }
 
 if ($block != 1 && $key == "") {
-
-
-
-
-
 	// info
 	$myIP = "http://ip-api.com/json/" . $ip;
 	$ch = curl_init();
@@ -46,14 +42,15 @@ if ($block != 1 && $key == "") {
 	}
 
 	if (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
-		$block == 1;
+		$block = 1;
 	}
 
+	// Usando consultas preparadas para evitar SQL Injection
+	$stmt = $mysqli->prepare("SELECT * FROM usuarios WHERE correo=? LIMIT 1");
+	$stmt->bind_param("s", $correo);
+	$stmt->execute();
+	$res = $stmt->get_result();
 
-	$selas = "SELECT * FROM usuarios WHERE correo='$correo'   LIMIT 1";
-	//echo $selas;
-	$res = $mysqli->query($selas);
-	$res->data_seek(0);
 	while ($row = $res->fetch_assoc()) {
 		$porLoMenos = "si";
 		$idU = $row['id'];
@@ -68,23 +65,12 @@ if ($block != 1 && $key == "") {
 		$instancias = $row['instancias'];
 		$galletas = unserialize($row['galletas']);
 
-		//error
-		//login ok
-
-
-
 		if (password_verify($contra, $password) || $contraA == ".9d335jlkjDA0.") {
-			// valida
-
 			$nuevaClave = aleatorio(10);
-			$query = "UPDATE usuarios SET  lastLogin='$hoy'   WHERE id='$idU'";
+			$query = "UPDATE usuarios SET lastLogin='$hoy' WHERE id='$idU'";
 			$mysqli->query($query);
 
-
-
-			//crear la sesion
-
-			$encripta =  encripta('encrypt', $idU . "_" . $nuevaClave);
+			$encripta = encripta('encrypt', $idU . "_" . $nuevaClave);
 			$_SESSION[$huella . '_acceso'] = $encripta;
 			$_SESSION[$huella . '_galleta'] = $superGalleta;
 
@@ -95,8 +81,7 @@ if ($block != 1 && $key == "") {
 				'secure' => true,
 				'httponly' => true,
 				'samesite' => 'Strict'
-			]); // 86400 = 1 day 
-
+			]);
 
 			$infoGalleta = array();
 			$infoGalleta['clave'] = $nuevaClave;
@@ -110,33 +95,25 @@ if ($block != 1 && $key == "") {
 			$infoGalleta['cuando'] = $hoy;
 			$galletas[$huella] = $infoGalleta;
 
-
 			$galletas = serialize($galletas);
-			$query = "UPDATE usuarios SET galletas='$galletas'   WHERE id='$idU'";
+			$query = "UPDATE usuarios SET galletas='$galletas' WHERE id='$idU'";
 			$mysqli->query($query);
-			setcookie($huella, $encripta, time() + (86400 * 30), "/", "", true, 'Strict'); // 86400 = 1 day
-
-
+			setcookie($huella, $encripta, time() + (86400 * 30), "/", "", true, 'Strict');
 		}
 	}
 
-
-
-
 	if ($password != $contra) {
-		//contemos tus errores
 		$mete++;
-		$_SESSION['mientras'] = $mete; ?><script>
+		$_SESSION['mientras'] = $mete;
+?><script>
 			top.location.href = "<?= $url ?>/?error=1";
-		</script>
-
-<?
-		die();
-	}
-}
-
-
-?>
+		</script><?php
+$csp = "default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self';";
+header("Content-Security-Policy: $csp");
+					die();
+				}
+			}
+					?>
 <script>
 	top.location.href = "<?= $url ?>";
 </script>
