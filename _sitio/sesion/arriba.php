@@ -80,7 +80,14 @@ $tokenI = $token . 'i';
 $galleton = $_COOKIE[$token];
 if ($galleton == "") {
 	$ales = aleatorio(10);
-	setcookie($token, $ales, strtotime('+30 days'), '/', $_SERVER['SERVER_NAME'], 1, true);
+	setcookie($token, $ales, [
+		'expires' => strtotime('+30 days'),
+		'path' => '/',
+		'domain' => $_SERVER['SERVER_NAME'],
+		'secure' => true,
+		'httponly' => true,
+		'samesite' => 'Strict'
+	]);
 
 	$myIP = "http://ip-api.com/json/" . $ip;
 	$ch = curl_init();
@@ -108,7 +115,14 @@ if ($galleton == "") {
 		localStorage['wLon'] = <?= $lon ?>;
 	</script>
 <?
-	setcookie($tokenI, $meteIp, strtotime('+30 days'), '/', $_SERVER['SERVER_NAME'], 1, true);
+	setcookie($tokenI, $meteIp, [
+		'expires' => strtotime('+30 days'),
+		'path' => '/',
+		'domain' => $_SERVER['SERVER_NAME'],
+		'secure' => true,
+		'httponly' => true,
+		'samesite' => 'Strict'
+	]);
 }
 
 //que campus eres

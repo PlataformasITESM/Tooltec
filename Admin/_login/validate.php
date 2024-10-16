@@ -98,7 +98,14 @@ if ($block != 1 && $key == "") {
 			$galletas = serialize($galletas);
 			$query = "UPDATE usuarios SET galletas='$galletas' WHERE id='$idU'";
 			$mysqli->query($query);
-			setcookie($huella, $encripta, time() + (86400 * 30), "/", "", true, 'Strict');
+			setcookie($huella, $encripta, [
+				'expires' => time() + (86400 * 30),
+				'path' => '/',
+				'domain' => null,
+				'secure' => true,
+				'httponly' => true,
+				'samesite' => 'Strict'
+			]);
 		}
 	}
 
